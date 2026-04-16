@@ -1,0 +1,82 @@
+{
+  "styles": {
+    "art_nouveau": {
+      "name": "Art Nouveau Botanical",
+      "visual": "Art Nouveau illustration, flowing organic curves, ornate botanical borders, flat color fills with ink linework, gilt accents",
+      "video_reinforce": "hand-drawn ink outlines visible, flat color fills, no photographic textures in background, ornamental botanical borders",
+      "motions": ["flowers bloom", "vines grow", "butterfly flutters", "gentle pan"],
+      "avoid": "No photorealistic textures on illustrated elements"
+    },
+    "impressionist": {
+      "name": "Impressionist Painterly",
+      "visual": "Impressionist oil painting, visible brushstrokes, Monet-inspired, soft painterly atmosphere, impasto texture",
+      "video_reinforce": "visible brushstrokes throughout, oil painting texture, no digital smoothing, painterly color blending",
+      "motions": ["light shifts", "water ripples", "petals float", "slow drift"],
+      "avoid": "No sharp edges or digital smoothing in painted world"
+    },
+    "line_art": {
+      "name": "Line-Art Botanical",
+      "visual": "ink line-art illustration, clean outlines, flat color fills, botanical precision, Studio Ghibli aesthetic",
+      "video_reinforce": "clean ink outlines visible, flat color fills, hand-drawn line quality, no photographic shadows in background",
+      "motions": ["parallax layers", "wind in leaves", "butterfly flight", "slow pan"],
+      "avoid": "No photorealistic shadows on line-art elements"
+    },
+    "comic": {
+      "name": "Comic Panel / Storybook",
+      "visual": "comic illustration, bold outlines, flat color blocks, sequential art panels, storybook aesthetic",
+      "video_reinforce": "bold outlines visible, flat color blocks, no smooth gradients in background, storybook illustration quality",
+      "motions": ["panel zoom", "elements pop in", "page turn", "camera track"],
+      "avoid": "No smooth gradients -- flat fills only in illustrated areas"
+    },
+    "watercolor": {
+      "name": "Watercolor",
+      "visual": "watercolor illustration, soft wet edges, color bleeding and pooling, translucent washes on textured paper, visible paper grain",
+      "video_reinforce": "watercolor wash texture visible, soft bleeding edges, paper grain texture, no hard digital edges in background",
+      "motions": ["color washes spread", "pigment blooms", "soft fade in", "gentle drift"],
+      "avoid": "No hard edges or solid fills on illustrated elements -- all edges should bleed softly"
+    },
+    "art_deco": {
+      "name": "Art Deco",
+      "visual": "Art Deco illustration, geometric patterns, bold symmetry, metallic gold and silver accents, angular forms, sunburst motifs, 1920s glamour",
+      "video_reinforce": "geometric patterns visible, sharp angular forms, metallic accents, no organic softness in background architecture",
+      "motions": ["geometric patterns reveal", "light catches metallic surfaces", "symmetrical unfold", "slow pan"],
+      "avoid": "No organic or flowing forms in architectural elements -- keep geometry sharp and angular"
+    },
+    "ukiyoe": {
+      "name": "Ukiyo-e (Japanese Woodblock)",
+      "visual": "Ukiyo-e woodblock print, flat color planes, bold flowing outlines, Hokusai-inspired nature motifs, limited color palette, wave and cloud patterns",
+      "video_reinforce": "flat color planes visible, bold outlines, woodblock print texture, no photographic gradients in background",
+      "motions": ["waves flow", "clouds drift", "cherry blossoms fall", "slow lateral scroll"],
+      "avoid": "No photographic gradients or 3D shading -- flat color planes only in illustrated areas"
+    },
+    "chinese_ink": {
+      "name": "Chinese Ink Wash (Shanshui)",
+      "visual": "Chinese ink wash painting, ink gradients from dense black to pale grey, calligraphic brushstrokes, mountain-water landscape, intentional negative space, rice paper texture",
+      "video_reinforce": "ink wash gradients visible, calligraphic brush quality, rice paper texture, no solid fills or hard outlines in background",
+      "motions": ["ink spreads on paper", "mist drifts", "water flows", "slow vertical scroll"],
+      "avoid": "No solid flat fills or hard geometric edges -- all forms defined by ink gradients and brushwork"
+    },
+    "pop_art": {
+      "name": "Pop Art",
+      "visual": "Pop Art illustration, bold primary colors, Ben-Day dots, high contrast, thick black outlines, Warhol/Lichtenstein graphic style",
+      "video_reinforce": "Ben-Day dot patterns visible, bold flat primary colors, thick black outlines, no subtle gradients in background",
+      "motions": ["elements pop in", "color blocks flash", "zoom punch", "quick pan"],
+      "avoid": "No subtle color gradients or muted tones -- bold saturated primaries and high contrast only"
+    },
+    "paper_cut": {
+      "name": "Paper Cut / Collage",
+      "visual": "paper cut collage illustration, layered paper textures, visible cut edges with slight shadow, torn and cut paper shapes, Matisse-inspired organic forms",
+      "video_reinforce": "paper texture visible, layered cut edges with shadows between layers, no smooth digital surfaces in background",
+      "motions": ["layers slide in parallax", "paper pieces fold and unfold", "shadow shifts between layers", "gentle drift"],
+      "avoid": "No smooth digital surfaces -- all background elements should show paper texture and cut edges"
+    }
+  },
+  "storyboard_tpl": "A single image containing exactly 3 columns and 3 rows of {panel_ratio} panels in {style} style. Each panel is a vertical portrait frame. The 9 panels tell one consecutive visual story reading left-to-right top-to-bottom. The final panel (bottom-right) should feel like a resolved ending — settled, calm, visually complete. {panel_descriptions}. Thin white borders separating all 9 panels. CRITICAL: No panel titles, no captions, no decorative text, no typographic overlays anywhere in any panel — purely visual storytelling with no added words. The photographic product's own printed label and logo are part of the product and must remain visible and legible. {avoid}.",
+  "keyframe_start_tpl": "Place the attached product photo into a {style} illustrated world. Product stays photographic. {world}. {comp}. {color}. {avoid}.",
+  "keyframe_end_tpl": "Place the attached product photo into a {style} illustrated world. Product stays photographic. Same camera angle as the reference image. {world_end}. {comp_end}. {color}. {avoid}.",
+  "keyframe_tpl": "Place the attached product photo into a {style} illustrated world. Product stays photographic. {world}. {comp}. {color}. {avoid}.",
+  "motion_i2v_tpl": "{moment}. Animate the scene shown in the input image. {motion}. {product_directive}. {camera}.",
+  "storyboard_video_tpl": "Animate this scene as the opening of a 9-panel illustrated storyboard (shown in the reference image). Follow the storyboard left-to-right, top-to-bottom: {narrative}. {style} style. {ambient_motion}.",
+  "motion_tpl": "{style} illustrated world, {video_reinforce}. MAINTAIN {camera_angle} camera angle throughout. Product at {product_scale} of frame, {product_position}. {color_constraint}. {motion}. Product bottle remains photographic with sharp glass reflections and readable text. {camera}.",
+  "multishot_tpl": "{scenes_joined_by_lens_switch}. {style} animated illustration, cinematic."
+}
