@@ -1,0 +1,4086 @@
+[
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/adventure-is-calling-1.mov",
+    "label": "mysterious,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/adventure-is-calling-2.mov",
+    "label": "upbeat,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/blurry-way.mov",
+    "label": "stylish,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/summer-begins-1.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/summer-begins-2.mov",
+    "label": "upbeat,relaxing,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/summer-burn-1.mov",
+    "label": "energetic,passionate,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/sunset-with-you.mov",
+    "label": "stylish,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/awakenin-inspiration.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/chill-abstract-intention.mov",
+    "label": "mysterious"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/corporate-business-presentation.mov",
+    "label": "stylish,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/eating-show.mov",
+    "label": "upbeat,relaxing,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/electronic-rock-king-around-here.mov",
+    "label": "energetic,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/freshness.mov",
+    "label": "elegant,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/fun-life.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/funshine.mov",
+    "label": "upbeat,stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/game.mov",
+    "label": "energetic,sci-fi,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/go-ahead.mov",
+    "label": "energetic,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy.mov",
+    "label": "upbeat,stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-dance-party.mov",
+    "label": "energetic,relaxing,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-whistling-ukulele.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/hello.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/inspiration.mov",
+    "label": "mysterious,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/keep-this-happy.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/light-corporate.mov",
+    "label": "stylish,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/manga.mov",
+    "label": "energetic,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/my-lonely-journey.mov",
+    "label": "soft,melancholic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-1.mov",
+    "label": "relaxing,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-2.mov",
+    "label": "elegant,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-3.mov",
+    "label": "stylish,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-4.mov",
+    "label": "romantic,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-6.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-7.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-8.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-9.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-10.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-11.mov",
+    "label": "upbeat,sci-fi,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-12.mov",
+    "label": "energetic,mysterious,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-13.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/our-happy-moments.mov",
+    "label": "upbeat,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/party-dance.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/pickled-pink.mov",
+    "label": "stylish,elegant,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/relaxing-ballad.mov",
+    "label": "elegant,romantic,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/rock-dedication.mov",
+    "label": "energetic,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/romantic-dinner.mov",
+    "label": "romantic,mysterious"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/stylish-boy.mov",
+    "label": "stylish,sensual"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/tennessee-whiskey.mov",
+    "label": "upbeat,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/the-technologies-main.mov",
+    "label": "mysterious,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/thousand-miles.mov",
+    "label": "soft,melancholic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/tropical-island-travel.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ukelele-song.mov",
+    "label": "relaxing,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/uplifting.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/wave.mov",
+    "label": "upbeat,sci-fi,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/wings-of-liberty.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/alls-fair-in-love.mov",
+    "label": "romantic,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/chill-abstract.mov",
+    "label": "stylish,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-day.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-summer.mov",
+    "label": "upbeat,stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/inspirational-background.mov",
+    "label": "stylish,elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/laser-groove.mov",
+    "label": "energetic,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/motivational-day.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-14.mov",
+    "label": "stylish,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-15.mov",
+    "label": "stylish,mysterious,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-16.mov",
+    "label": "stylish,mysterious,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-17.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-18.mov",
+    "label": "upbeat,relaxing,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-19.mov",
+    "label": "stylish,elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/no-name-20.mov",
+    "label": "upbeat,relaxing,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/real-estate.mov",
+    "label": "stylish,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/relaxing-light.mov",
+    "label": "relaxing,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/simulate.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/sunny-morning.mov",
+    "label": "upbeat,stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/voice-over-under.mov",
+    "label": "upbeat,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/you-can-do-more.mov",
+    "label": "upbeat,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/easy-success-1.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/easy-success-2.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/educational.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/elegance.mov",
+    "label": "elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/elegant-manners.mov",
+    "label": "energetic,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-acousitic.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/summer-upbeat-pop-rock.mov",
+    "label": "energetic,uplifting,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/unlifting-and-inspiring-corporate-motivation-1.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/unlifting-and-inspiring-corporate-motivation-2.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/unlifting-and-inspiring-corporate-motivation-3.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/vesper.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/guzheng.mp3",
+    "label": "weisiaobao-silk,over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230327/no-name-15.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230523/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230523/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230523/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230523/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230523/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/perfume.mov",
+    "label": "mysterious,sensual,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/lounge-alexey.mov",
+    "label": "mysterious,sensual"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/tell-yourself-you-can.mov",
+    "label": "energetic,upbeat,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/positive-and-smooth.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/light-minimal-ambient.mov",
+    "label": "elegant,romantic,mysterious,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/morning-dew.mov",
+    "label": "elegant,mysterious,sci-fi,sensual,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-jazz-swing.mov",
+    "label": "energetic,upbeat,relaxing,stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/motivational-inspiring-corporate.mov",
+    "label": "energetic,upbeat,passionate,uplifting,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/energetic-inspirational-rock.mov",
+    "label": "energetic,passionate,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/minimal.mov",
+    "label": "upbeat,relaxing,romantic,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/night-disco-cocktail-party.mov",
+    "label": "energetic,sci-fi,sensual,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/beautiful-wild-nature.mov",
+    "label": "relaxing,elegant,romantic,soft,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/rock-your-surfborad.mov",
+    "label": "energetic,upbeat,passionate,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-uplifing-corporate.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happiness-corporate.mov",
+    "label": "energetic,upbeat,passionate,uplifting,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/morning-light.mov",
+    "label": "energetic,upbeat,passionate,uplifting,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/bubble.mov",
+    "label": "energetic,upbeat,elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/young-in-spirit-1.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/young-in-spirit-2.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/for-education.mov",
+    "label": "upbeat,relaxing,elegant,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-day-2.mov",
+    "label": "energetic,upbeat,passionate,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/acoustic-guitars-positive.mov",
+    "label": "upbeat,elegant,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/acoustic-folk.mov",
+    "label": "upbeat,elegant,romantic,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/acoustic-guitar-calm-background.mov",
+    "label": "upbeat,relaxing,stylish,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-calm-acoustic-guitar.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230531/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230531/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230531/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230531/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230531/music.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230801/summer-burn-1%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230802/no-name-12%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230802/energetic-inspirational-rock%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/energetic-inspirational-rock.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230802/energetic-inspirational-rock%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230802/energetic-inspirational-rock%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230802/energetic-inspirational-rock%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230803/morning-light%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230807/motivational-inspiring-corporate%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230807/energetic-inspirational-rock%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230809/energetic-inspirational-rock%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20230802/no-name-12%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231016/195_full_a-quite-extraordinary-tale_0095.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231017/284_full_slow-motion-beauty_0147.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231017/Piano_Bossa_Nova%5B1%5D.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231018/freshness%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231019/freshness%5B1%5D.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231020/438_short3_jazz-cafe_0066.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231020/382_short3_lucky-island_0064.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231023/251_full_nebula_0144%281%29.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231023/212_full_smokin-aces_0132.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231031/212_full_smokin-aces_0132.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231107/1699356376295muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231110/1699584959076212fullsmokinaces0132.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/80s.mov",
+    "label": "energetic,passionate,stylish,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/chunhuaqiushi.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/energetic-fun-pop.mov",
+    "label": "energetic,upbeat,uplifting"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/fashionable.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/future-pop.mov",
+    "label": "mysterious,sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/gentle-ads-1.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/gentle-ads-2.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-folk-acoustic.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/qingkuai-liushui.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/qingying-chinese.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/rock-upbeat-background.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/seize-the-ultimate.mov",
+    "label": "sci-fi"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/shi-1.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/shi-2.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/shuhuan-rouqing.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/simple-corporate-days.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/soft-piano.mov",
+    "label": "relaxing,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/synthwave.mov",
+    "label": "energetic,passionate,sci-fi,over-35s,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/the-acoustic-guitar-education.mov",
+    "label": "upbeat,relaxing,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/wanzhuanyouyang.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/weimei-chinese-1.mov",
+    "label": "chinese-style,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/weimei-chinese-2.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/xingyunliushui.mov",
+    "label": "chinese-style"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231117/1700203572719251fullnebula0144.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231117/1700203601070251fullnebula0144.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231121/1700552964931muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231122/1700646329232muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231123/1700733534132195fullaquiteextraordinarytale0095.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231123/1700733826335382short3luckyisland0064.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231128/1701136891104FrenchCafecompressed.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231128/1701159549743FrenchCafecompressed.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231129/1701245842857FrenchCafecompressed.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231129/2469586799.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231130/1701336221920CoolFunk.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231201/1701397475869muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231207/1701943072053SkippWhitmanSaturdaySpecialInstrumentalVersion.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231207/1701943115514SkippWhitmanSaturdaySpecialInstrumentalVersion.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231213/1702460858482muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231213/1702461243268ThePianoHopefulmainmp3.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231213/1702461293063FashionRBHipHopmain.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231214/1702518794579RBHipHopFashionmain.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231214/1702519440353ModernRB.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231215/summer-begins-2.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "http://ccdn.fancybos.com/content/20231215/happy.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20231220/freshness.mov",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20231222/1703230410072muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240102/C03-10%E7%A7%92.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240103/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240103/1704269234968muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240103/17042799851588wpvqp1trgq.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240103/1704280972699131.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240104/1704335702206muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240104/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240104/xiangbangzhuanyong.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240105/1704424732211muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240105/17044563772022469586799.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240105/17044566057042469586799.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240110/17048877221851.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240111/1704954973877muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240111/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240111/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240112/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240112/1705045337231relaxinglight.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240112/1705045706002relaxinglight.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240112/1705047673128nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240112/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240115/1705288101618muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240115/S03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240116/S03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240116/1705393901682muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240117/1705472473881muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240117/1705480257926muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240117/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240118/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240118/C03-10s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240118/C03-10s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240118/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240118/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240119/1705650389813404short1cartoonsymphony0015.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240119/1705659397190FrenchCafecompressed.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240120/1705732232858.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240122/1705895014792muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240123/1705976015907muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240123/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240123/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240123/1705997246453muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240124/1706065504484nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240125/1706149179212nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240125/1706149583672nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240130/relaxing-light.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240131/17066857653341.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240204/1707028493979.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240206/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240220/1708395363630muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240221/1708504537079muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240222/1708582302199nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240223/17086749948461.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240223/1708690187930nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ORI%2520bgm/Ikoliks%2520-%2520The%2520Street%2520Beat.mp3",
+    "label": "ORI bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ORI%2520bgm/Shinto%2520-%2520Dinner.mp3",
+    "label": "ORI bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ORI%2520bgm/Steven%2520Beddall%2520-%2520Golden%2520Era.mp3",
+    "label": "ORI bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ORI%2520bgm/braj%2520mahal%2520-%2520Dura%2520Verdad.mp3",
+    "label": "ORI bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ORI%2520bgm/Aves-Boppin.mp3",
+    "label": "ORI bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SP%2520bgm/Gvidon%2520-%2520Tornado.mp3",
+    "label": "SP bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SP%2520bgm/RocknStock%2520-%2520Rectifier.mp3",
+    "label": "SP bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SPW%2520bgm/Cosmonkey%2520-%2520Forgive%2520Me.mp3",
+    "label": "SPW bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SPW%2520bgm/Notize%2520-%2520The%2520Bliss.mp3",
+    "label": "SPW bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SPW%2520bgm/Skygaze%2520-%2520Leafless%2520Daisy.mp3",
+    "label": "SPW bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SPW%2520bgm/Skygaze%2520-%2520Open%2520Air%2520Kiss.mp3",
+    "label": "SPW bgm,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/SPW%2520bgm/Yarin%2520Primak%2520-%2520Oh%2520Baby.mp3",
+    "label": "SPW bgm,over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240226/1708933957478muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240226/S03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240227/W03-P03-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-and-fun.mov",
+    "label": "energetic,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/travel-summer-tropical.mov",
+    "label": "energetic,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/science-technology-future.mov",
+    "label": "mysterious,over-35s,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/feeling-home.mov",
+    "label": "relaxing,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/relaxing-nature-piano-music.mov",
+    "label": "relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ambient-chillout-lounge.mov",
+    "label": "stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/lounge-romantic-soul.mov",
+    "label": "stylish,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/ukulele-happy-kids.mov",
+    "label": "energetic,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-ukulele-fun-kids.mov",
+    "label": "energetic,over-35s"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/innovation-technology-corporate.mov",
+    "label": "sci-fi,MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/inspirational-business-corporate-positive.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/positive-inspirational-dance-motivational.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/positive-optimistic-acoustic.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/synthwave-b.mov",
+    "label": "sci-fi,over-35s,MOLSION"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240229/1709192489148muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240229/17092057347601.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240301/17092763949571.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240301/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240301/C04-S04-20s.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240304/1709545956448nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240304/1709547187001muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240305/17096052285121.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240306/1709708361272muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240306/1709716182636muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240306/1709719306906nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240306/1709721454990muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240311/1710147017491bgm.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240312/mute_audio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240312/1710210007327muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240312/1710211381804bgm.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240313/17102969216701.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240313/1710298586093muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240313/1710300647917muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240313/17103163475631.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240314/17103821191211.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240314/1710401268926muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240314/17104097567601.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240315/17104953582291.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240318/kk_20s.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240318/kk_20s.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240318/kk_20s.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240318/kk_20s.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240319/1710832634378muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240321/17109898845501.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240322/17110913618461.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240325/17113515214191.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/17114238295811.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/%E7%BA%AF%E9%9F%B3%E4%B9%90%E7%B2%89%E7%BA%A2%E8%8B%8F%E6%89%93.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/17114379825631.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/1711438015154unliftingandinspiringcorporatemotivation1.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/17114380356281.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/1711438076035.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240326/%E6%9C%89%E4%BD%95%E4%B8%8D%E5%8F%AF.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/1711937481869PianoBossaNova.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/1711939595213MerryandHappyChineseNewYear1.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/%E8%82%AF%E5%AE%9A.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/1711964219416CQgxlVboMELrjA.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/1711964274734CQgxlVboMELrjA.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/1711964323849CQgxlVboMELrjA.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240401/1711964403951CQgxlVboMELrjA.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240403/1712115874157CoolFunk.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240407/1712471665218.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240407/1712472680319muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240407/1712483786897.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240408/171254562523948.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712628468929.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712629569759.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712643186145.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712645817175.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712655427490hello.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712655532737noname6.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712655653260pickledpink.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712655703846relaxingballad.mp3",
+    "label": "over-35s"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240409/1712656082639ukelelesong.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240410/17127307117811.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240410/17127316434111.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240410/1712734158277.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240412/1712888912434bgm.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240412/1712888974997bgm.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240412/1712889363574.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240412/1712902703780.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240412/1712908234900.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713321324842video26.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713321393483video27.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/17133222117481.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713323245064417.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713324584547nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713333405273.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713334596636417.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713334710102muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713334730648417.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/17133372748104171.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240417/1713345392547video27.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240419/17134974902761.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240419/1713498507218.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/17137541218841.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/17137541449361.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/17137541647121.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/17137541903491.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/17137542734181.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/1713754280189.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/1713766509295.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240422/1713780068070.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240423/1713858709067.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240423/1713859401486.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240425/1714013059872manga.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240425/1714046387479.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240425/1714046593601.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240426/1714102732893426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240426/4%E6%9C%8826%E6%97%A5.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240426/4%E6%9C%8826%E6%97%A5.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240426/1714117663763417.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240426/1714117752605video28.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240426/4%E6%9C%8826%E6%97%A5.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240428/4%E6%9C%8826%E6%97%A5.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240428/1714267721456426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240428/1714269837118426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240428/1714274872857426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240428/1714295542239hello.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240428/1714295626325ukelelesong.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240429/1714372492882.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240429/1714386053139muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240430/4%E6%9C%8826%E6%97%A5.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240506/1714965924604.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240506/4%E6%9C%8826%E6%97%A5.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240506/1714976358185.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240509/1715240923410FrenchCafecompressed.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240511/1715396527357.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240511/1715396799387.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240511/1715411758005426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240511/1715412158636426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240511/%E6%97%A0%E5%A3%B0.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/1715650743287618.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/17156508421826185.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/1715650857688618.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/1715656763346.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/1715668456041618.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/17156685142986185.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/1715673136719.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240514/1715673167470.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240515/1715735216035.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240515/1715759526459.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240516/1715822871326.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240517/1715930087602muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240517/1715931059306426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240517/1715931246338426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240517/1715931485465426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240521/1716280498513.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240522/1716360338347muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240524/1716535497435.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240529/1716977611937CQgxlVboMELrjA.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240530/1717032667857video27.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240530/1717049708614video28.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240530/1717049860580417.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240530/1717050000290ukelelesong.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240604/1717481330391.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240604/1717494228123.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240604/1717498849006.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240605/1717553043432.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240606/17176408704358lj2j2o2pq8.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240606/8lj2j2o2pq8.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240606/17176411814128lj2j2o2pq8.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240606/17176414129008lj2j2o2pq8.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240606/1717665757519objw5zDlMODwrDDiGjCn8Ky19083543638448bbbc6fbb00fb782e6184bb004accb8b524b8fa32.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240607/1717742104336.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240607/1717747990231muteaudio.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240612/1718186021637404short1cartoonsymphony0015.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240612/1718189064005FrenchCafecompressed.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240614/1718331242983.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240614/1718346195881.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240618/1718674738390.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240618/6%E6%9C%8818%E6%97%A5%281%29.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240619/1718764716801.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240619/1718779074655.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240619/1718779741738426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240619/17188046684391716535497435.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240620/1718870500351.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240620/1718870905989.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240620/1718871276476.MP3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/MOLSION/corporate-rock.mov",
+    "label": "MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/MOLSION/digital-inversions.mov",
+    "label": "MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/MOLSION/energetic-upbeat-fun-pop-rock.mov",
+    "label": "MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/MOLSION/inspiration-background-ambient.mov",
+    "label": "MOLSION"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/MOLSION/pop-corporate.mov",
+    "label": "MOLSION"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240621/1718957657921.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240621/1718959579561.MP3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/80s.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/ambient-chillout-lounge.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/calm-acoustic-guitar-background.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/city-sunshine.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/digital-inversions.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/easy-success-2.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/elegant-manners.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/freshness.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/good-vibes-instrumental.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/happy-dance-party.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/have-a-rest-with-me.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/inspirational-business-corporate-positive.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/laser-groove.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/light-minimal-ambient.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/lounge-alexey.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/lounge-romantic-soul.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/my-lonely-journey.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/no-name-11.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/no-name-14.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/no-name-15.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/no-name-18.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/no-name-19.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/no-name-8.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/old-cafe.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/perfume.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/relaxing-light.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/seize-the-ultimate.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/simple-corporate-days.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/simulate.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/the-acoustic-guitar-education.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/BOLON/thousand-miles.mov",
+    "label": "BOLON"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/energetic-fun-pop.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/energetic-upbeat-fun-pop-rock.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/fashionable.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/game.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/happiness-corporate.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/happy-dance-party.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/happy-day.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/happy-summer.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/inspiration.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/keep-this-happy.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/laser-groove.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/light-corporate.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/manga.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/no-name-11.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/no-name-17.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/no-name-8.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/pop-corporate.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/retro-dreams.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/QINA/rock-dedication.mov",
+    "label": "qina"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240624/1719197073622und.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240624/1719197621686und.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240624/1719225901334.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240625/1719299745598.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240627/1719457697368und426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240627/1719484409973.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240711/17206715106047113.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240715/1721007572757und426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240717/1721204320840.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240717/1721204357327.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240717/1721211678340.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240717/1721212320201.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240722/1721630923601.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240724/1721818098220.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240725/1721904819966.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240726/1721982576449.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240729/1722223095858251fullnebula0144.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240802/1722578503839.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240807/1723018866499.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240807/1723024199332.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240808/1723110273017bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240809/1723193059767.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240822/1724311932238417.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240826/172463871783680s.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240826/172463881158980s.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240826/172463905693980s.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240826/172463972101880s.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/172473884635680s.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724740276292corporaterock.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724741151453digitalinversions.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724741721864educational.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724742497931electronicrockkingaroundhere.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724743424639elegantmanners.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724745932618energeticfunpop.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724746025301energeticfunpop.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724746719612energeticinspirationalrock.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724751335975fashionable.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240827/1724751942014happy.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724808331823goahead.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724810086712wave.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724810917895voiceoverunder.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724827339389uplifting.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724829073363unliftingandinspiringcorporatemotivation2.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724829574522ukulelehappykids.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724833412187thrivingspirit.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724834197200morninglight.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724834936577rockyoursurfborad.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724835470052noname11.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724838920069awakenininspiration.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240828/1724839334714awakenininspiration.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240829/1724896948095easysuccess1.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240829/1724901573782easysuccess2.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240829/1724902751920foreducation.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240829/1724912732731noname10.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240829/1724916177175gentleads2.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240909/1725866561957.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/1725931573931.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/BGM%281%29.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/BGM%281%29.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/%E5%86%AC%E5%AD%A3%E8%A7%86%E9%A2%91BGM.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/1725953522815und426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/1725954172560und426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240910/1725954577860und426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240912/DJBGM.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240919/1726735880998awakenininspiration.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240919/1726735887600awakenininspiration.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240919/1726737855357happywhistlingukulele.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240919/1726737861922happywhistlingukulele.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240919/1726738549083happywhistlingukulele.mov",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240924/1727143451896.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240924/17271437609701.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240929/1727576893727.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20240930/1727681193703.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241011/1728623097941.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241031/1730357096739.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241101/1730447968861.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241101/1730447998363.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241101/1730448044249.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241101/1730448091473.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241101/1730448123507.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241101/1730448157114.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241107/1730960975317.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241112/1731417759415nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241112/1731417799172nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241112/1731417818354nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241119/1732004769810426.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241121/1732160843475adventureiscalling1.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241122/1732255336115.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241125/1732533075297.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241127/1732693974567nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241127/1732694014186nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241129/1732860569979.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241129/1732860641228.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241129/1732861028890.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%2586%25B0%25E9%259B%25AA%25E8%258A%2582%25E9%2599%2590%25E5%25AE%259A%25E5%2586%25AC%25E6%2597%25A5%25E7%258B%2582%25E6%25AC%25A2-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%258F%25A4%25E9%25A3%258E%25E6%2594%25BE%25E6%259D%25BE%25E8%25BD%25BB%25E5%25BF%25AB%25E9%259F%25B3%25E4%25B9%2590-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%258F%25A4%25E9%25A3%258E%25E8%25BD%25BB%25E5%25B7%25A7%25E6%259C%2589%25E8%25B6%25A3%25E5%259C%25BA%25E6%2599%25AF-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%2590%2589%25E7%25A5%25A5%25E6%2596%25B0%25E5%25B9%25B4-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%2596%259C%25E5%25BA%2586%25EF%25BC%258C%25E5%25BF%25AB%25E4%25B9%2590%25EF%25BC%258C%25E8%258A%2582%25E6%2597%25A5%25EF%25BC%258C%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A3%258E-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%259C%25A3%25E8%25AF%259E%25E8%258A%2582%25E9%2593%2583%25E5%2584%25BF%25E5%2593%258D%25E5%258F%25AE%25E5%25BD%2593-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E5%25BF%25AB%25E4%25B9%2590%25E7%259A%2584%25E6%2596%25B0%25E5%25B9%25B4%25E5%259C%25A3%25E8%25AF%259E%25E7%25A4%25BC%25E7%2589%25A9-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E6%2596%25B0%25E5%25B9%25B4%2520%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A3%258E%2520%25E7%2583%25AD%25E9%2597%25B9-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E6%2596%25B0%25E5%25B9%25B4%25E5%25B9%25B4%25E5%25A4%259C%25E9%25A5%25AD-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E6%25AC%25A2%25E5%25BF%25AB%25E5%258F%25A4%25E9%25A3%258E-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E6%25AC%25A2%25E5%25BF%25AB%25E7%2594%25B5%25E5%25AD%2590%25E6%2597%25B6%25E5%25B0%259A%25E9%259F%25B3%25E4%25B9%2590-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E6%25B2%25BB%25E6%2584%2588%25E9%25A3%258E%25E6%2599%25AF%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A3%258E%25E9%259F%25B3%25E4%25B9%2590-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E7%25A5%259D%25E4%25BD%25A0%25E5%259C%25A3%25E8%25AF%259E%25E8%258A%2582%25E5%25BF%25AB%25E4%25B9%2590-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E8%25B7%2583%25E5%258A%25A8%25E5%2586%25AC%25E6%2597%25A5-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/20241129/%25E8%25BD%25BB%25E5%25BF%25AB%25E7%259A%2584%25E4%25B8%25AD%25E5%259B%25BD%25E9%25A3%258E-%25E5%25AE%258C%25E6%2595%25B4%25E7%2589%2588.mp3",
+    "label": "bgm_track"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241203/1733191645757.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241203/1733191674739.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241204/17333050933671.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241209/%E6%97%A0%E5%A3%B0.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241209/1733711950715.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241209/1733711961586.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241209/1733712107524.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241209/1733712613186.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241213/1734057094254.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241213/1734079910369.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241217/1734404962348.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241218/1734517604091.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20241219/1734604000332.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20250109/1736387335202132.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20250109/173639374146713.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20250113/1736759416976.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20250121/1737426159812.MP3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/content/20250121/1737447659233.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250207/1738899334866.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250207/1738899403219.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250208/1739000169699.MP3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/a-good-day.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/acoustic-motivation.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/day-memories.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/endless-summer.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/enjoy-life.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/for-travel-tourism.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-childhood-fantasy.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-happy.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-optimistic-game.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-summer-uplifting-pop.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-ukulele-whistle.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-upbeat-pop.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/hip-hop-vlog.mov",
+    "label": "upbeat,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/hot-summer-ukelele.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/indie-rock-powerful.mov",
+    "label": "passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/inspiring-pop-corporate.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/into-the-dusk.mov",
+    "label": "elegant,mysterious"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/key-levels.mov",
+    "label": "energetic,elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/lo-fi-hip-hop.mov",
+    "label": "stylish,elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/motivational-and-inspiring-corporate.mov",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/motivational-inspire.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/mountain-bike.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/my-new-gift.mov",
+    "label": "upbeat,relaxing,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/our-happy-moments-2.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/play-with-me.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/refreshing.mov",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/spring-evening.mov",
+    "label": "energetic,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/stunning-inspiration.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/tutorials-upbeat-background.mov",
+    "label": "energetic,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-fun-happy-pop.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-groove.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250219/1739935461077nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250219/1739935695996nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250219/1739947670931nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250219/1739947696330nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250219/1739951826308nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250221/1740133589531.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250224/1740364871900bgm.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250224/1740383703641.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250225/17404757843851.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250226/1740534156766.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250226/1740538320804.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250226/1740538473973.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250226/1740538662503.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250303/1740983493460.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250314/1741940306022nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250317/1742174212713nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250317/1742177903381nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250317/1742191397128.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250318/1742260967602.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250318/1742280694528.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250318/1742284566552nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250318/1742288248239.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250318/1742289742367.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250327/1743041663382.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250327/1743041805718nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250327/1743069939064.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250328/FZLTDHJW_0.TTF",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250328/FZLTDHJW_0.TTF",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250331/1743417171808.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250401/1743497018970.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250408/1744098523692.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250414/1744598248288.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250414/1744633403998.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250416/1744788068661.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250421/1745250423381.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250422/1745310119124.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745550377395.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745562886594AsoUrOk.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745563743520DammaBeatzLightMoney.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745564283266wardwillsAsoComfort.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745564414119JoakimKarudWaitaMinute.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/17455662274251.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745567216165425.mov",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250425/1745567228032425.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250427/17457175629659.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250427/17457176190094.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250427/17457176326961.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250427/174571764815712.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250427/1745738873512nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250427/1745739649385nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250428/1745820571312.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250428/1745832201730.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250429/1745893398099.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250429/1745893464139.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250429/17459203970174291.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250430/1745977225790.MP3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-1.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-2.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-3.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-4.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-5.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-6.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-7.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-8.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-9.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/Chinism-10.mp3",
+    "label": "CHINISM"
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250506/1746502810987.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250507/1746582142938.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250508/1746675899008bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250508/1746697676381.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250509/1746728345380.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250509/1746776184843.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250509/1746777807711nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250512/1747039886993.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250512/1747041627267nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250513/1747119131360.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250513/1747125376720nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250515/1747273757294.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250515/1747276638744nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250519/1747639212852nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250519/1747647456006rb.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250520/1747724215086bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250520/1747724616376bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250520/1747725806461.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250520/1747726140707.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250520/1747728234056bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250520/1747730701058bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250521/1747823505452nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250522/1747896114836rb.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250522/1747901068381rb.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250522/1747903051553.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250523/1747963429706SLPSTRMWhisperinaDream.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250523/17479701471085214.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250523/1747980906246.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250523/1747980986093.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250523/1747982299851.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250526/1748222860744IkoliksRidetheWave.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250526/Artlist%20Original%20-%20Trap%20Drum%20Loops%20-%20Piano%20and%20Beat.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250526/Novembers%20-%20Round%20Round.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250526/1748225957292SLPSTRMWhisperinaDream.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250526/174825741218252621.mov",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250527/1748345101784.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/1748398262988.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/1748399415206.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/1748399859532.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/1748400258041.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/1748400586233.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/1748413984696.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250528/174843033152652811.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250530/1748569653868nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250603/1748949524239nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250604/1749016267398bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250604/1749032233423nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250605/1749094956485.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250611/1749608681659bgm.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250611/1749635697637.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250613/1749797445303.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250616/17500456164915214.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250616/17500456390815214.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250616/17500456620665214.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250618/1750211938846nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250618/1750212386022nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250618/1750223598800c6d0t30tdlv.mov",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250619/1750316638366619.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250619/17503166834226192.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250619/17503167117936193.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250623/1750673112524nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250624/1750760597217nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250625/1750842712592.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250625/1750842806976.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250627/1750995862674nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250707/17518986834731.MP3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-1.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-2.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-3.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-4.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-5.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-6.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-7.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-8.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-9.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/ur-10.mp3",
+    "label": "UR"
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250709/1752026344410CaspianSycamore.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250709/1752026991064CaspianSycamore.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250709/1752027658144CaspianSycamore.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250709/1752027753645CaspianSycamore.mp3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/a-vida-e-bem-mais.mov",
+    "label": "relaxing,elegant,romantic,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/beautiful-day.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/catch-that-groove.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/chicago-lounge.mov",
+    "label": "elegant,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/corporate-happy-pop.mov",
+    "label": "upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/energetic-pop-rock.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/fun-optimistic-happy-pop.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/groove-upbeat-fashion-happy-funk.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-heart.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-pop.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/interview-background.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/lofi-and-chill.mov",
+    "label": "relaxing,stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/pop-inspiring.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/positive-feelings.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/positivity-parade.mov",
+    "label": "stylish,elegant,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/soulful-beat.mov",
+    "label": "elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/summer-guitar-disco.mov",
+    "label": "upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/sunny-daydreams.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/swagger-hip-hop.mov",
+    "label": "elegant,romantic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/travel-junkie-with-funky.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/triumph-over-challenges.mov",
+    "label": "energetic,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/under-your-spell.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-funky-pop-ad.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-inspiring-pop.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-motivational-corporate.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/be-happy.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/bright-sunshine.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/cheery-children-game.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/dreamy-melody.mov",
+    "label": "stylish,elegant,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/fashion-pop.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/good-times.mov",
+    "label": "stylish,elegant"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-cheerful-ukulele.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/happy-summer-days.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/in-the-snow.mov",
+    "label": "relaxing,romantic,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/jovial-smile.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/joyful.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/movements-in-time.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/piano-at-midnight.mov",
+    "label": "relaxing,soft"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/positive-ambient-background.mov",
+    "label": "upbeat,relaxing"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/remembering-the-journey.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/summer-fun-time.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/the-kingston-town.mov",
+    "label": "upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/tropical-e-motion.mov",
+    "label": "stylish"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/tropical-summer-upbeat.mov",
+    "label": "energetic,upbeat"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/upbeat-dance.mov",
+    "label": "energetic,upbeat,passionate"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/vacation.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/default/vibes.mov",
+    "label": "energetic"
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250722/1753164382889nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250722/1753175945531nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250725/1753437022870nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250728/1753664710469.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250728/1753684833880nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250728/1753688224097nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250731/1753926433310nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250804/1754269488687nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250814/1755142392757nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250819/1755575811696nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250819/1755583966331nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250825/1756106357647nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250826/1756205282873nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250827/1756263376804nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250827/1756263436400nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250903/1756866267134nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250904/1756953161182nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/c192c9a4-d8c1-448b-bec4-f6b08f318955.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/d0c910bf-bad6-48bf-a80b-e04fefe321a5.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/628246d0-d3b5-431f-9007-6765c56badd2.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/b8749f55-5fa5-4e91-abe3-59019e3e72c7.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/0bd27b36-6274-4ab8-9951-1abacf578066.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/acf1f4ef-2921-4e05-a9cd-fb729aa94507.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/26d95c5f-2304-4149-86f2-e9ea84f211ea.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/a6896cae-022e-42ab-8fc4-486d7a397434.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/cd296244-498d-41f8-ac13-e9cab108f8a4.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/52e54f9a-ae67-420a-b502-9a396a222411.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/85ba7f22-c1cc-43cc-a3e3-2a4d307d37e9.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/8c88f22b-e0b5-4346-b72c-2ca091ee847b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/6bd829ae-5a04-427c-a306-65deae2729a1.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/380991ff-019d-40ec-982d-893d64854c1b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/e943ec3f-714a-4308-8522-405c25d5ab38.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/fd1a62ae-67bf-49a2-ab5c-5c9400b9481d.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/a1984c5b-cf93-45e6-90d9-77c3a6c4c725.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/bb5ad7e5-9eb9-4f24-a5c3-c02c1f9a891a.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/fc33f534-296e-47d1-96cf-a32103746c89.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/2d7ba863-4e57-48c4-976a-5d96f576794e.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/581ca97e-be35-42d9-9d55-fd0e0e6e6ecc.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/f6ee834d-9fc0-49ea-8b02-35a1f299da9b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/0ba1f8e0-3db5-4037-9f6a-b3e5523406bc.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/5e280f41-e289-4804-8dc4-46e6ab93776b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/c2cf8f0a-2d69-422d-aed6-c561b3d7ad65.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/8b1c8b6e-ac64-4226-8f79-9fb96c43c7e5.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/2bbcb3ff-ebfe-4761-9d41-537af4eed5f8.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/03579024-545d-4dd7-9e69-73603f61a113.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/8f0020c0-9b0a-488c-88d0-609139954bc8.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/69304fae-2f3c-4d07-b0fb-64808a3b483d.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/95ed9b62-9434-4c76-beac-1b96415ec759.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/e04e51c5-858e-4805-92be-71b2293279b3.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/a7f69fb0-ad64-4d16-a4b3-d930fb69dd69.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/383fd5df-dc12-48ba-923c-da1f84cc4160.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/b4fa51da-1b49-4792-828f-55acf82acb32.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/6e4658b0-4f0e-4ed8-9a53-0068bc7205e1.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/f7cc91ff-a1c4-476c-be03-ec317bfd0319.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/b740fc2a-1612-4288-8ada-9ed06ef07551.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/09a45888-0260-4740-85f5-c881c56df40e.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/143312d7-0854-4012-8c71-0e4e3874b872.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/f392a80c-d0d5-485a-8b01-a5d14ae22924.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/b6dc2490-e932-408c-bcc9-7d874be53a60.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/f2ade01d-a6c3-406e-8cc6-c077a5e256fd.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/d1d2547f-a50f-433c-80b8-12f0e73f0bb0.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/5bf9bafa-4b8a-46d6-baeb-b18c07b57714.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/9d558a9c-873f-45d3-86ef-0a092d3685c3.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/b7ba1bd4-b375-4e26-b696-a94c11598cf9.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/cf26a3d4-01db-4bd3-b94f-ce1270c0822b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/43502aed-8181-4321-a8ee-c66197c48b68.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/f250a453-8b17-4195-95c0-08015b54050b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/82168061-8048-4812-8ef3-0d0a01be7f3e.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/fa86c5a3-854b-40e5-b43a-ce0849085121.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/aa7c4bea-d9d6-4293-9072-0799789a4268.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/5dec309f-9e36-41df-8c3b-4166d63e17a6.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/47e86994-3c95-48f4-99a8-be0fe14e47ad.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/b1a924e7-d8c1-4ff7-9b21-479be3e694ce.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/472db98b-e4c4-4d03-9779-952d33a82e66.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/a6b19fb8-477c-4c4c-83f5-6c9d66bf9573.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/416463c2-df19-49f3-b4c8-410774a60d43.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/04d460fe-3fce-4498-91de-4201268e8034.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/e9895b2c-2b48-4ccb-997e-96a3ac47efde.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/2ed783a5-5da2-48c8-9575-90481018991b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/70ae05fd-bf5b-43e5-9d9d-8e5d89929aff.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/d0de955a-ecb1-4f41-b865-82683237382b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/e9792823-5ce9-4022-b0c9-7cbadb8f1f9d.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/05a8f2e0-539f-485f-be4b-8ad0713611a2.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/aaddd48b-ae01-4f63-a0b6-5481cebf954f.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/73a2de6a-7396-4d30-a386-df344eef8cc1.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/d61a47de-7dbd-4e57-a171-5cd093864c54.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/82da747f-3bc4-4d9b-951c-efd645e41caa.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/3fe7639d-7eec-429d-a3d9-29c25cdff9d6.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/7354aae0-3fca-42ca-8aaa-ed451324c841.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/6e11b265-0d93-44a6-a6c4-3b9964ff0199.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/6e3619d8-44bd-4e28-8c10-443ad988f5a7.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/2030d3f6-35e2-4ec0-9502-238e8416fa0e.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/3b600e8d-cebb-4cb7-9891-15d128a32e90.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/4949b257-f3ec-4d63-9e98-980e8b4aa2cd.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/6ef1d616-fb8f-40e0-b9c7-ddafa118058b.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/998294f7-e9b3-4ce8-aed9-13a0c39aae02.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/2a176f76-fd5d-4b83-b9bb-48d5dc20eaef.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/0c102d92-0e3c-4e53-8c2e-40815e273a99.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://ccdn.fancybos.com/music/e3c2e46d-879a-49b0-93b8-39b7b89bb7f4.mp3",
+    "label": "energetic,upbeat,relaxing"
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250929/1759136206298nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250929/1759137886566nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20250930/1759217383961nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251014/1760411692683nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251021/1761040632892nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251022/1761117479775nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251104/1762223066410nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251104/1762223754081nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251104/1762224051378nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251118/1763432834719nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251127/1764230077136nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251203/1764726845184122.MP3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251203/1764731030838nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20251203/1764757457360nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20260105/1767597547889AlonPeretzPlasticFrogNoBackingVocals.mp3",
+    "label": null
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Family%20Kush%20-%20Cool%20Cats.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Alon%20Peretz%20-%20Plastic%20Frog%20-%20No%20Backing%20Vocals%20.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Alon%20Peretz%20-%20Plastic%20Frog.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/BalloonPlanet%20-%20Chasing%20Dreams.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Bamtone%20-%20Cheerful.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Cristof%20Walters%20-%20Ill%20Come%20Running.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Dan%20Ayalon%20-%20Takes%20Me%20to%20the%20Lake%20-%20Short%20version%20b.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Dan%20Pundak%20-%20Piggyback%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Dan%20Pundak%20-%20Piggyback%20-%20Stripped%20Version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Danpun%20-%20Happy%20to%20Be%20Happy%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Danpun%20-%20Happy%20to%20Be%20Happy.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Dirty%20Front%20Yards%20-%20PARADISE%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Elijah%20Aaron%20-%20Finger%20Paint.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Evert%20Z%20-%20We%20Whistle%20While%20We%20Wander.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Evert%20Z%20-%20Wherever%20You%20Go.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/FASSounds%20-%20Joy.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/IamDayLight%20-%20Home%20Is%20Where%20You%20Are%20-%20No%20Backing%20Vocals.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ian%20Post%20-%20Camping%20-%20No%20Drums.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ian%20Post%20-%20Camping.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ian%20Post%20-%20Wings%20of%20Imagination%20-%20No%20Voice%20Over.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ikoliks%20-%20Your%20Favorite%20Sitcom.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Josh%20Leake%20-%20Squeaky%20Clean.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Lux-Inspira%20-%20Baby%20Smile.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Lux-Inspira%20-%20Lazy%20Day.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Marcelo%20Nami%20-%20Blissfully%20Riding%20My%20Bike.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Max%20H%20-%20Happy%20Gypsy.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Maya%20Isacowitz%20-%20Our%20Story%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Mina%20-%20In%20a%20Dream%20-%20No%20Lead%20Vocals.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Moon%20-%20Keep%20Going.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Paper%20Planes%20-%20Better%20Days.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rewind%20Kid%20-%20Chasing%20Sunbeams.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rewind%20Kid%20-%20True%20to%20Your%20Heart.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rex%20Banner%20-%20Aurora.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rex%20Banner%20-%20First%20Light.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rex%20Banner%20-%20Greengrass%20-%20Stripped%20Version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rex%20Banner%20-%20Oasis.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rex%20Banner%20-%20Six%20String%20Lullabies.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Rex%20Banner%20-%20Summer%20Breeze.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Russo%20-%20Club%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Simon%20Osterhold%20-%20Orugoru%20No%20Bouken.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Soleil%20et%20Fleurs%20-%20Next%20Best%20Day%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ty%20Simon%20-%20Cant%20Be%20Bothered.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ty%20Simon%20-%20Everything%20Is%20Possible.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ty%20Simon%20-%20Into%20the%20Grass.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Ty%20Simon%20-%20Still%20Got%20Paris.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Will%20Van%20De%20Crommert%20-%20Morning%20Sun.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/XiMo%20-%20Colouring%20the%20Rainbow.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/XiMo%20-%20Daddy%20Brought%20Me%20a%20Little%20Cat.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/XiMo%20-%20Slimy%20Slater%20Smell%20You%20Later.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Yonatan%20Riklis%20-%20Dogman.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Young%20Rich%20Pixies%20-%20Cartoon%20Ukulele.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Young%20Rich%20Pixies%20-%20Funster.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Young%20Rich%20Pixies%20-%20Rendezvous.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Young%20Rich%20Pixies%20-%20Rise%20and%20Shine%20-%20Instrumental%20version.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://vcdn.fancybos.com/audio/brand/caoer/Young%20Rich%20Pixies%20-%20Welcome%20Rain.mp3",
+    "label": "chaoe-exclusive"
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20260107/1767749151775AlonPeretzPlasticFrog.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20260130/1769740314672nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20260211/1770781671855nosounds.mp3",
+    "label": null
+  },
+  {
+    "url": "https://fancy-cc.obs.cn-north-4.myhuaweicloud.com/content/20260302/1772444811302nosounds.mp3",
+    "label": null
+  }
+]
