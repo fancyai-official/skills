@@ -1,0 +1,1844 @@
+{
+  "name": "pixabay-bgm-catalog",
+  "version": 2,
+  "generated": "2026-03-30",
+  "count": 190,
+  "license": "Tracks are from Pixabay; usage must comply with each track's license and site terms. This file only includes public track links and does not contain audio files.",
+  "howToUse": "For training/video Skill use: Based on the user's described scene, mood, and theme, match keywords with tags and title in items (synonyms, fuzzy, or multi-word matches are allowed). Select 1-3 tracks as BGM recommendations and briefly explain the reason. Each item contains a downloadUrl (Pixabay CDN MP3 direct link), which can be downloaded directly using fetch/curl/yt-dlp. Tags are merged from the Genre and keywords on the official list page.",
+  "items": [
+    {
+      "url": "https://pixabay.com/music/acoustic-group-cheerful-cheerful-music-507997/",
+      "title": "Cheerful - Cheerful Music",
+      "tags": [
+        "Acoustic Group",
+        "Cheerful"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_b3f7aa2696.mp3?filename=the_mountain-cheerful-cheerful-music-507997.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/acoustic-group-soft-river-508772/",
+      "title": "Soft River",
+      "tags": [
+        "Acoustic Group",
+        "Meditation",
+        "Yoga"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/26/audio_82479d588d.mp3?filename=rasmussenaudio-soft-river-508772.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/acoustic-group-upbeat-bright-music-490145/",
+      "title": "Upbeat bright music",
+      "tags": [
+        "Acoustic Group",
+        "Upbeat Bright"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/23/audio_ef2c9dd14b.mp3?filename=no-copyright-music-2026-upbeat-bright-music-490145.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/acoustic-group-upbeat-upbeat-background-music-487024/",
+      "title": "Upbeat - Upbeat Background Music",
+      "tags": [
+        "Acoustic Group",
+        "Upbeat Background Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/18/audio_98147f422d.mp3?filename=the_mountain-upbeat-upbeat-background-music-487024.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-battle-battle-music-491417/",
+      "title": "Battle - Battle Music",
+      "tags": [
+        "Adventure",
+        "Battle",
+        "Battle Cinematic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/26/audio_10f3906133.mp3?filename=paulyudin-battle-battle-music-491417.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-cinematic-cinematic-music-489998/",
+      "title": "Cinematic - Cinematic Music",
+      "tags": [
+        "Adventure",
+        "Cinematic",
+        "Cinematic Epic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/23/audio_ee5a74310f.mp3?filename=the_mountain-cinematic-cinematic-music-489998.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-epic-478847/",
+      "title": "Epic",
+      "tags": [
+        "Adventure",
+        "Action",
+        "Epic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/03/audio_9d35baf92a.mp3?filename=kornevmusic-epic-478847.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-epic-485934/",
+      "title": "Epic",
+      "tags": [
+        "Adventure",
+        "Epic",
+        "Epic Cinematic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/16/audio_a8e3f901bf.mp3?filename=paulyudin-epic-485934.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-epic-cinematic-background-music-507943/",
+      "title": "Epic Cinematic Background Music",
+      "tags": [
+        "Adventure",
+        "Epic",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_721d1129c4.mp3?filename=nastelbom-epic-cinematic-background-music-507943.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-epic-cinematic-epic-482367/",
+      "title": "Epic - Cinematic Epic",
+      "tags": [
+        "Adventure",
+        "Epic",
+        "Epic Cinematic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/10/audio_c28c6de8cc.mp3?filename=paulyudin-epic-cinematic-epic-482367.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-motivation-485931/",
+      "title": "Motivation",
+      "tags": [
+        "Adventure",
+        "Motivation"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/16/audio_719189be68.mp3?filename=paulyudin-motivation-485931.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-motivation-487018/",
+      "title": "Motivation",
+      "tags": [
+        "Adventure",
+        "Motivation"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/18/audio_4f7c4f279b.mp3?filename=the_mountain-motivation-487018.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/adventure-tension-tension-music-491416/",
+      "title": "Tension - Tension Music",
+      "tags": [
+        "Adventure",
+        "Tension",
+        "Tension Bg"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/26/audio_ebca8e63a2.mp3?filename=paulyudin-tension-tension-music-491416.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/afrobeat-wishes-506595/",
+      "title": "Wishes",
+      "tags": [
+        "Afrobeat",
+        "Music",
+        "Melody",
+        "Guitar"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_cf4d61703e.mp3?filename=u_68md3sey5k-wishes-506595.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/alternative-hip-hop-%C4%91%E1%BB%A9a-tr%E1%BA%BB-c%E1%BB%A7a-nh%E1%BB%AFng-v%C3%AC-sao-jonagr-506848/",
+      "title": "Đứa Trẻ Của Những Vì sao JonAGR",
+      "tags": [
+        "Alternative Hip Hop",
+        "Rap",
+        "Hip-hop",
+        "Mic",
+        "Leap"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_cbc4d45b4c.mp3?filename=jonagr-ua-tre-cua-nhung-vi-sao-jonagr-506848.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/alternative-hip-hop-m%E1%BB%93-c%C3%B4i-jonagr-506846/",
+      "title": "Mồ côi- JonAGR",
+      "tags": [
+        "Alternative Hip Hop",
+        "Rap",
+        "Hip-hop",
+        "Mic",
+        "Leap"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_7d22e46ad7.mp3?filename=jonagr-mo-coi-jonagr-506846.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/ambient-ambient-suspense-loop-507018/",
+      "title": "Ambient Suspense (Loop)",
+      "tags": [
+        "Ambient",
+        "Action",
+        "Abstract"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_b5c07a969f.mp3?filename=siarhei_korbut-ambient-suspense-loop-507018.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/ambient-background-music-463062/",
+      "title": "Background Music",
+      "tags": [
+        "Ambient",
+        "Background Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/08/audio_5c36ed8dda.mp3?filename=nastelbom-background-music-463062.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/ambient-background-music-486996/",
+      "title": "Background Music",
+      "tags": [
+        "Ambient",
+        "Background Music Corpo...",
+        "Next page"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/18/audio_4683f43e89.mp3?filename=nastelbom-background-music-486996.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/ambient-soul-506722/",
+      "title": "Soul",
+      "tags": [
+        "Ambient",
+        "Sacred Choral"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_0ec371773b.mp3?filename=poshpony-soul-506722.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-hip-hop-hip-hop-music-492805/",
+      "title": "Hip-Hop - Hip-Hop Music",
+      "tags": [
+        "Beats",
+        "Hip-hop",
+        "Hip-hop Beat"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/27/audio_ce5ed89f9a.mp3?filename=the_mountain-hip-hop-hip-hop-music-492805.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-no-copyright-music-211881/",
+      "title": "No Copyright Music",
+      "tags": [
+        "Beats",
+        "No Copyright Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2024/05/24/audio_46382ae035.mp3?filename=loksii-no-copyright-music-211881.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-no-copyright-music-hip-hop-498106/",
+      "title": "No Copyright Music - Hip Hop",
+      "tags": [
+        "Beats",
+        "Hip-hop No Copyright"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/09/audio_846074eeab.mp3?filename=prettyjohn1-no-copyright-music-hip-hop-498106.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-sad-sad-music-496892/",
+      "title": "Sad - Sad Music",
+      "tags": [
+        "Beats",
+        "Sad",
+        "Sad Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/07/audio_f6349bb31e.mp3?filename=watermello-sad-sad-music-496892.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-spring-508139/",
+      "title": "Spring",
+      "tags": [
+        "Beats",
+        "Spring",
+        "Spring Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_b2efe7d7ec.mp3?filename=prettyjohn1-spring-508139.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-technology-technology-music-496893/",
+      "title": "Technology - Technology Music",
+      "tags": [
+        "Beats",
+        "Technology"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/07/audio_a33488df68.mp3?filename=watermello-technology-technology-music-496893.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-tropical-tropical-music-508038/",
+      "title": "Tropical - Tropical Music",
+      "tags": [
+        "Beats",
+        "Tropical",
+        "Summer Tropical"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_6d30299f14.mp3?filename=the_mountain-tropical-tropical-music-508038.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/beats-vlog-hip-hop-483574/",
+      "title": "Vlog Hip-Hop",
+      "tags": [
+        "Beats",
+        "Bass",
+        "Calm",
+        "Deep",
+        "Funky"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/12/audio_ef715196dc.mp3?filename=producesplatinum-vlog-hip-hop-483574.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/blues-old-steel-blues-rock-promo-449645/",
+      "title": "Old Steel (Blues Rock Promo)",
+      "tags": [
+        "Blues",
+        "Advertising",
+        "Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/12/10/audio_fe721eb22d.mp3?filename=alexgrohl-old-steel-blues-rock-promo-449645.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/bossa-nova-background-music-505061/",
+      "title": "Background Music",
+      "tags": [
+        "Bossa Nova",
+        "Jazz Cafe"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/19/audio_6579a6c689.mp3?filename=prettyjohn1-background-music-505061.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/bossa-nova-jazz-cafe-music-61sec-505062/",
+      "title": "Jazz Cafe Music_61Sec",
+      "tags": [
+        "Bossa Nova",
+        "Jazz Cafe"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/19/audio_1be02f99f6.mp3?filename=prettyjohn1-jazz-cafe-music_61sec-505062.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/celtic-brumas-de-avalon-507423/",
+      "title": "Brumas de Avalon",
+      "tags": [
+        "Celtic",
+        "Music",
+        "Mysticism"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_e27b1529c2.mp3?filename=lolivac-brumas-de-avalon-507423.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/celtic-susurros-de-las-tierras-altas-507418/",
+      "title": "Susurros de las Tierras Altas",
+      "tags": [
+        "Celtic",
+        "Music",
+        "Fantasy"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_131c101ed5.mp3?filename=lolivac-susurros-de-las-tierras-altas-507418.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/christmas-jingle-bells-metal-449464/",
+      "title": "Jingle Bells Metal",
+      "tags": [
+        "Christmas",
+        "Jingle Bells Metal"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/12/09/audio_5344da998e.mp3?filename=the_mountain-jingle-bells-metal-449464.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/classical-piano-relax-relax-music-508021/",
+      "title": "Relax -Relax Music",
+      "tags": [
+        "Classical Piano",
+        "Relax",
+        "Chill Relax"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_f75988176e.mp3?filename=the_mountain-relax-relax-music-508021.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/classical-string-quartet-dreamy-dreamy-music-508007/",
+      "title": "Dreamy - Dreamy Music",
+      "tags": [
+        "Classical String Quartet",
+        "Dreamy",
+        "Dreamy Acoustic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_5c51ad6161.mp3?filename=the_mountain-dreamy-dreamy-music-508007.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/classical-string-quartet-epic-cinematic-2-507930/",
+      "title": "Epic Cinematic 2",
+      "tags": [
+        "Classical String Quartet",
+        "Epic",
+        "Epical",
+        "Epicness"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_e2a2443615.mp3?filename=nastelbom-epic-cinematic-2-507930.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/classical-string-quartet-inspiring-inspiring-music-507936/",
+      "title": "Inspiring - Inspiring Music",
+      "tags": [
+        "Classical String Quartet",
+        "Inspiring Hope"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_719f4eee47.mp3?filename=nastelbom-inspiring-inspiring-music-507936.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/comedy-comedy-cartoon-funny-background-music-492540/",
+      "title": "Comedy Cartoon Funny Background Music",
+      "tags": [
+        "Comedy",
+        "Funny",
+        "Comedy Bg"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/27/audio_0250461c0c.mp3?filename=starostin-comedy-cartoon-funny-background-music-492540.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/comedy-happy-kids-kids-happy-496596/",
+      "title": "Happy Kids - Kids Happy",
+      "tags": [
+        "Comedy",
+        "Bright"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_faaf9f369d.mp3?filename=the_mountain-happy-kids-kids-happy-496596.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-corporate-507937/",
+      "title": "Corporate",
+      "tags": [
+        "Corporate",
+        "Corporate Growth"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_a8794b98b0.mp3?filename=nastelbom-corporate-507937.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-inspirational-inspirational-music-508024/",
+      "title": "Inspirational - Inspirational Music",
+      "tags": [
+        "Corporate",
+        "Inspirational"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_c87ea34e08.mp3?filename=the_mountain-inspirational-inspirational-music-508024.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-no-copyright-music-507938/",
+      "title": "No Copyright Music",
+      "tags": [
+        "Corporate",
+        "No Copyright Music Bac..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_eb61f3e58c.mp3?filename=nastelbom-no-copyright-music-507938.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-no-copyright-vlog-499473/",
+      "title": "No Copyright Vlog",
+      "tags": [
+        "Corporate",
+        "No Copyright Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/10/audio_27c02f5d1e.mp3?filename=bombinsound-no-copyright-vlog-499473.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-promo-promo-music-508032/",
+      "title": "Promo - Promo Music",
+      "tags": [
+        "Corporate",
+        "Promo",
+        "Commercial Promo"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_ab455a07a7.mp3?filename=the_mountain-promo-promo-music-508032.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-real-estate-background-luxury-music-500467/",
+      "title": "Real Estate Background Luxury Music",
+      "tags": [
+        "Corporate",
+        "Real Estate",
+        "Realty"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/12/audio_8c50d8984a.mp3?filename=top-flow-real-estate-background-luxury-music-500467.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-startup-508036/",
+      "title": "Startup",
+      "tags": [
+        "Corporate",
+        "Startup"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_a2896334e8.mp3?filename=the_mountain-startup-508036.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-upbeat-happy-corporate-487426/",
+      "title": "Upbeat Happy Corporate",
+      "tags": [
+        "Corporate",
+        "Business"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/19/audio_8e10e01af1.mp3?filename=kornevmusic-upbeat-happy-corporate-487426.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-upbeat-upbeat-2-507939/",
+      "title": "Upbeat - Upbeat 2",
+      "tags": [
+        "Corporate",
+        "Upbeat Corporate"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_17c46d62df.mp3?filename=nastelbom-upbeat-upbeat-2-507939.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-upbeat-upbeat-music-507944/",
+      "title": "Upbeat - Upbeat Music",
+      "tags": [
+        "Corporate",
+        "Upbeat Energy"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_04e7110455.mp3?filename=nastelbom-upbeat-upbeat-music-507944.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/corporate-vlogging-vlog-beat-240477/",
+      "title": "Vlogging Vlog Beat",
+      "tags": [
+        "Corporate",
+        "Vlog",
+        "Vlog Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2024/09/13/audio_07e77c1ef2.mp3?filename=loksii-vlogging-vlog-beat-240477.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/dance-cyber-sport-no-copyright-dj-music-507206/",
+      "title": "Cyber Sport (No Copyright Dj Music)",
+      "tags": [
+        "Dance",
+        "Club",
+        "Party"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_2824324bf0.mp3?filename=miromaxmusic-cyber-sport-no-copyright-dj-music-507206.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/dance-electric-fever-dream-506522/",
+      "title": "Electric Fever Dream",
+      "tags": [
+        "Dance",
+        "Upbeat",
+        "Pop"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_f3f1895a67.mp3?filename=slrathna-electric-fever-dream-506522.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/deep-house-1ye-what-to-do-506965/",
+      "title": "1Ye - What to do",
+      "tags": [
+        "Deep House",
+        "House",
+        "Home",
+        "Relax"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_509cc0c2dc.mp3?filename=1ye-1ye-what-to-do-506965.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/dubstep-dark-cyberpunk-i-free-background-music-i-free-music-lab-release-469493/",
+      "title": "Dark Cyberpunk I Free Background Music I Free Music Lab Release",
+      "tags": [
+        "Dubstep",
+        "Production",
+        "Video",
+        "Movie"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/20/audio_7fd1a0d3a2.mp3?filename=freemusiclab-dark-cyberpunk-i-free-background-music-i-free-music-lab-release-469493.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/dubstep-dubstep-dubstep-music-492803/",
+      "title": "Dubstep - Dubstep Music",
+      "tags": [
+        "Dubstep",
+        "Dubstep Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/27/audio_092cf3a7d9.mp3?filename=the_mountain-dubstep-dubstep-music-492803.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/eccentric-quirky-spy-theme-2-507197/",
+      "title": "Spy Theme 2",
+      "tags": [
+        "Eccentric & Quirky",
+        "Spy",
+        "Detective",
+        "Agent"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_2e76604a98.mp3?filename=ilyatruhanov-spy-theme-2-507197.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/edm-beat-sence-out-now-507220/",
+      "title": "Beat Sence-Out Now",
+      "tags": [
+        "Edm",
+        "Nature",
+        "Fish",
+        "Underwater"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_b4b6b5c889.mp3?filename=souravdasix0ii-beat-sence-out-now-507220.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/edm-brazilian-phonk-phonk-music-505181/",
+      "title": "Brazilian Phonk - Phonk Music",
+      "tags": [
+        "Edm",
+        "Brazilian Phonk"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/19/audio_e6bfad828b.mp3?filename=the_mountain-brazilian-phonk-phonk-music-505181.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electro-background-music-491224/",
+      "title": "Background Music",
+      "tags": [
+        "Electro",
+        "Background Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/25/audio_6b9fa2bfd3.mp3?filename=eliveta-background-music-491224.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-background-music-507928/",
+      "title": "Background Music",
+      "tags": [
+        "Electronic",
+        "Background Music Corpo..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_cc628cdb84.mp3?filename=nastelbom-background-music-507928.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-corporate-491319/",
+      "title": "Corporate",
+      "tags": [
+        "Electronic",
+        "Corporate"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/26/audio_c3f6ee499c.mp3?filename=atlasaudio-corporate-491319.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-corporate-background-music-for-production-500250/",
+      "title": "Corporate background music for production",
+      "tags": [
+        "Electronic",
+        "Corporate Background M..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_a8c16a4e05.mp3?filename=joyinsound-corporate-background-music-for-production-500250.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-corporate-upbeat-motivational-music-free-496476/",
+      "title": "Corporate Upbeat Motivational Music Free",
+      "tags": [
+        "Electronic",
+        "Corporate Upbeat Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_41f7323cf2.mp3?filename=joyinsound-corporate-upbeat-motivational-music-free-496476.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-corporate-upbeat-motivational-music-non-copyright-496475/",
+      "title": "Corporate Upbeat Motivational Music Non Copyright",
+      "tags": [
+        "Electronic",
+        "Corporate Upbeat Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_aa45510487.mp3?filename=joyinsound-corporate-upbeat-motivational-music-non-copyright-496475.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-fashion-fashion-music-496889/",
+      "title": "Fashion - Fashion Music",
+      "tags": [
+        "Electronic",
+        "Fashion",
+        "Fashion Fashion"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/07/audio_4a5ab46cb4.mp3?filename=watermello-fashion-fashion-music-496889.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-free-corporate-background-music-500251/",
+      "title": "Free corporate background music",
+      "tags": [
+        "Electronic",
+        "Corporate Background M..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_43418cd1b0.mp3?filename=joyinsound-free-corporate-background-music-500251.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-happy-birthday-495860/",
+      "title": "Happy Birthday",
+      "tags": [
+        "Electronic",
+        "Happy Birthday"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/05/audio_a4dfada9a0.mp3?filename=nastelbom-happy-birthday-495860.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-luxury-luxury-music-496891/",
+      "title": "Luxury - Luxury Music",
+      "tags": [
+        "Electronic",
+        "Luxury",
+        "Luxury Elegant"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/07/audio_6f4ec1d207.mp3?filename=watermello-luxury-luxury-music-496891.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-motivation-sport-rock-trailer-507199/",
+      "title": "Motivation Sport Rock Trailer",
+      "tags": [
+        "Electronic",
+        "Motivation Rock Action"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_f26a818f8f.mp3?filename=miromaxmusic-motivation-sport-rock-trailer-507199.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-no-copyright-music-491212/",
+      "title": "No Copyright Music",
+      "tags": [
+        "Electronic",
+        "No Copyright Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/25/audio_82277c6800.mp3?filename=eliveta-no-copyright-music-491212.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-no-copyright-music-494934/",
+      "title": "No Copyright Music",
+      "tags": [
+        "Electronic",
+        "No Copyright Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/03/audio_b4c03cf612.mp3?filename=the_mountain-no-copyright-music-494934.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-training-for-success-corporate-bgm-500272/",
+      "title": "Training for Success - Corporate bgm",
+      "tags": [
+        "Electronic",
+        "Training For Success"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_42d1408581.mp3?filename=joyinsound-training-for-success-corporate-bgm-500272.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-training-for-success-free-music-500271/",
+      "title": "Training for Success free music",
+      "tags": [
+        "Electronic",
+        "Training For Success"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_2ed9268f6c.mp3?filename=joyinsound-training-for-success-free-music-500271.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-training-for-success-music-500270/",
+      "title": "Training for Success - Music",
+      "tags": [
+        "Electronic",
+        "Training For Success"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_e8e5c7c729.mp3?filename=joyinsound-training-for-success-music-500270.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-training-for-success-song-500269/",
+      "title": "Training for Success - Song",
+      "tags": [
+        "Electronic",
+        "Training For Success"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_059a16a51a.mp3?filename=joyinsound-training-for-success-song-500269.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/electronic-upbeat-507934/",
+      "title": "Upbeat",
+      "tags": [
+        "Electronic",
+        "Upbeat Bright",
+        "Next page"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_990fd44423.mp3?filename=nastelbom-upbeat-507934.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/epic-classical-cinematic-ambient-507940/",
+      "title": "Cinematic Ambient",
+      "tags": [
+        "Epic Classical",
+        "Cinematic Ambient Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_963458593e.mp3?filename=nastelbom-cinematic-ambient-507940.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/epic-classical-dramatic-dramatic-music-508006/",
+      "title": "Dramatic - Dramatic Music",
+      "tags": [
+        "Epic Classical",
+        "Dramatic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_1aa17b3acf.mp3?filename=the_mountain-dramatic-dramatic-music-508006.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/epic-classical-elegant-elegant-music-508012/",
+      "title": "Elegant - Elegant Music",
+      "tags": [
+        "Epic Classical",
+        "Elegant",
+        "Elegant Acoustic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_781f9c2476.mp3?filename=the_mountain-elegant-elegant-music-508012.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/epic-classical-epic-blockbuster-508013/",
+      "title": "Epic Blockbuster",
+      "tags": [
+        "Epic Classical",
+        "Epic Blockbuster"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_705c4b93e8.mp3?filename=the_mountain-epic-blockbuster-508013.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/epic-classical-epic-cinematic-507941/",
+      "title": "Epic Cinematic",
+      "tags": [
+        "Epic Classical",
+        "Epic Cinematic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_ae89ecb9a6.mp3?filename=nastelbom-epic-cinematic-507941.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/epic-classical-heroic-heroic-music-508023/",
+      "title": "Heroic - Heroic Music",
+      "tags": [
+        "Epic Classical",
+        "Heroic",
+        "Epic Heroic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_93ab634af6.mp3?filename=the_mountain-heroic-heroic-music-508023.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/folk-voix-d%27opprim%C3%A9s-507304/",
+      "title": "Voix d'opprimés",
+      "tags": [
+        "Folk",
+        "World Music",
+        "String",
+        "Ney"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_3f06ba82cf.mp3?filename=fayette35-voix-dx27opprimes-507304.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/funk-funky-funk-295004/",
+      "title": "Funky - Funk",
+      "tags": [
+        "Funk",
+        "Funky",
+        "Funky Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/02/06/audio_96bea2631d.mp3?filename=loksii-funky-funk-295004.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/funk-funky-funky-music-508017/",
+      "title": "Funky - Funky Music",
+      "tags": [
+        "Funk",
+        "Funky",
+        "Funky Energy"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_40d10220af.mp3?filename=the_mountain-funky-funky-music-508017.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/funk-groovy-funky-beat-with-wah-guitar-and-brass-stabs-funky-fever-506523/",
+      "title": "Groovy Funky Beat with Wah Guitar and Brass Stabs (Funky Fever)",
+      "tags": [
+        "Funk",
+        "Funky",
+        "Groovy"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_184fddff15.mp3?filename=slrathna-groovy-funky-beat-with-wah-guitar-and-brass-stabs-funky-fever-506523.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/funk-no-copyright-music-201745/",
+      "title": "No Copyright Music",
+      "tags": [
+        "Funk",
+        "No Copyright Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2024/04/12/audio_3118cb3f2a.mp3?filename=moodmode-no-copyright-music-201745.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/funk-that-funky-rhythm-got-me-like-506525/",
+      "title": "That funky rhythm got me like",
+      "tags": [
+        "Funk",
+        "Funky",
+        "Groovy"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_e588ef97bf.mp3?filename=slrathna-that-funky-rhythm-got-me-like-506525.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/funk-upbeat-upbeat-music-488355/",
+      "title": "Upbeat - Upbeat music",
+      "tags": [
+        "Funk",
+        "Upbeat Bright"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/20/audio_dbcb4de4ce.mp3?filename=no-copyright-music-2026-upbeat-upbeat-music-488355.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/future-bass-background-music-159125/",
+      "title": "Background Music",
+      "tags": [
+        "Future Bass",
+        "Background Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2023/07/22/audio_79e285e137.mp3?filename=the_mountain-background-music-159125.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/gospel-holy-holy-holy-438720/",
+      "title": "Holy Holy Holy",
+      "tags": [
+        "Gospel",
+        "Jesus",
+        "Christ"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/11/18/audio_998f00436e.mp3?filename=misselle-holy-holy-holy-438720.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/gospel-worship-gospel-christian-church-music-416553/",
+      "title": "Worship Gospel Christian Church Music",
+      "tags": [
+        "Gospel",
+        "Worship"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/10/07/audio_2053636a3a.mp3?filename=lnplusmusic-worship-gospel-christian-church-music-416553.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/happy-childrens-tunes-happy-birthday-508020/",
+      "title": "Happy Birthday",
+      "tags": [
+        "Happy Childrens Tunes",
+        "Happy Birthday"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_7f248f0973.mp3?filename=the_mountain-happy-birthday-508020.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/happy-childrens-tunes-happy-happy-music-496549/",
+      "title": "Happy - Happy Music",
+      "tags": [
+        "Happy Childrens Tunes",
+        "Happy",
+        "Happy Upbeat"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_cb06185b78.mp3?filename=the_mountain-happy-happy-music-496549.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/happy-childrens-tunes-happy-happy-upbeat-496594/",
+      "title": "Happy - Happy Upbeat",
+      "tags": [
+        "Happy Childrens Tunes",
+        "Happy Upbeat"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_1a2d576465.mp3?filename=the_mountain-happy-happy-upbeat-496594.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/happy-childrens-tunes-happy-kids-background-music-49-second-499553/",
+      "title": "Happy Kids Background Music 49 Second",
+      "tags": [
+        "Happy Childrens Tunes",
+        "Hap Kids Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/10/audio_d686953eab.mp3?filename=bombinsound-happy-kids-background-music-49-second-499553.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/happy-childrens-tunes-happy-kids-background-music-499554/",
+      "title": "Happy Kids Background Music",
+      "tags": [
+        "Happy Childrens Tunes",
+        "Hap Kids Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/10/audio_966aeb4435.mp3?filename=bombinsound-happy-kids-background-music-499554.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/hard-rock-action-rock-rock-music-492798/",
+      "title": "Action Rock - Rock Music",
+      "tags": [
+        "Hard Rock",
+        "Action Rock",
+        "Next page"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/27/audio_3ff32914d3.mp3?filename=the_mountain-action-rock-rock-music-492798.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/hard-rock-this-heavy-metal-492569/",
+      "title": "This Heavy Metal",
+      "tags": [
+        "Hard Rock",
+        "Heavy Metal",
+        "Heavy",
+        "Metal"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/27/audio_fef0a7e2a3.mp3?filename=mrclaps-this-heavy-metal-492569.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/house-happy-summer-daisy-background-tropical-house-music-for-video-short-403067/",
+      "title": "Happy Summer Daisy. Background Tropical House music for video. Short",
+      "tags": [
+        "House",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/09/11/audio_3fd9e1e6a5.mp3?filename=white_records-happy-summer-daisy-background-tropical-house-music-for-video-short-403067.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/lofi-lo-fi-music-loop-sentimental-jazzy-love-473154/",
+      "title": "Lo-fi Music Loop - Sentimental Jazzy Love",
+      "tags": [
+        "Lofi",
+        "Romantic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/25/audio_1dd7f3126d.mp3?filename=sonican-lo-fi-music-loop-sentimental-jazzy-love-473154.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/main-title-inspiring-cinematic-music-409347/",
+      "title": "Inspiring Cinematic Music",
+      "tags": [
+        "Main Title",
+        "Cinematic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/09/23/audio_1b6f4de1c4.mp3?filename=tunetank-inspiring-cinematic-music-409347.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/main-title-majestic-fanfare-award-172529/",
+      "title": "Majestic Fanfare (Award)",
+      "tags": [
+        "Main Title",
+        "Anniversary",
+        "Award Winner"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2023/10/20/audio_6faa64741b.mp3?filename=diamond_tunes-majestic-fanfare-award-172529.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/meditationspiritual-melody-506732/",
+      "title": "melody",
+      "tags": [
+        "Meditation/Spiritual",
+        "Sacred Choral",
+        "Ambient"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_0938a45a6c.mp3?filename=poshpony-melody-506732.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/meditationspiritual-piano-483803/",
+      "title": "Piano",
+      "tags": [
+        "Meditation/Spiritual",
+        "Piano",
+        "Piano Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/12/audio_c868574249.mp3?filename=the_mountain-piano-483803.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/meditationspiritual-spiritual-506731/",
+      "title": "Spiritual",
+      "tags": [
+        "Meditation/Spiritual",
+        "Sacred Choral",
+        "Ambient"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_8eb764d180.mp3?filename=poshpony-spiritual-506731.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/metal-burn-it-down-this-angry-metal-449649/",
+      "title": "Burn It Down (This Angry Metal)",
+      "tags": [
+        "Metal",
+        "Angry Metal"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2025/12/10/audio_903527fb29.mp3?filename=alexgrohl-burn-it-down-this-angry-metal-449649.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/metal-metal-dark-matter-111451/",
+      "title": "Metal (Dark Matter)",
+      "tags": [
+        "Metal",
+        "Metal Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2022/05/17/audio_581ce59413.mp3?filename=alexgrohl-metal-dark-matter-111451.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/modern-classical-cinematic-adventure-496546/",
+      "title": "Cinematic Adventure",
+      "tags": [
+        "Modern Classical",
+        "Cinematic Adventure"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_fc4e89c18a.mp3?filename=the_mountain-cinematic-adventure-496546.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/modern-classical-inspiring-485937/",
+      "title": "Inspiring",
+      "tags": [
+        "Modern Classical",
+        "Inspiring"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/16/audio_601aa45c7d.mp3?filename=paulyudin-inspiring-485937.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/modern-classical-magical-wizard-school-orchestral-fantasy-488126/",
+      "title": "Magical Wizard School Orchestral Fantasy",
+      "tags": [
+        "Modern Classical",
+        "Fantasy",
+        "Ropes",
+        "Magician"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/20/audio_a942cc6ade.mp3?filename=domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/motown-old-school-rnb-light-in-the-dark-507404/",
+      "title": "Light in the Dark",
+      "tags": [
+        "Motown & Old School Rnb",
+        "Music",
+        "Soul",
+        "R B"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_4746365878.mp3?filename=lolivac-light-in-the-dark-507404.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/orchestral-celebration-celebration-music-507996/",
+      "title": "Celebration - Celebration Music",
+      "tags": [
+        "Orchestral",
+        "Celebration"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_b467af4b82.mp3?filename=the_mountain-celebration-celebration-music-507996.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/percussion-cinematic-cinematic-music-491630/",
+      "title": "Cinematic - Cinematic Music",
+      "tags": [
+        "Percussion",
+        "Cinematic Orchestral"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/26/audio_971b1950ab.mp3?filename=prettyjohn1-cinematic-cinematic-music-491630.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/percussion-drums-506736/",
+      "title": "DRUMS",
+      "tags": [
+        "Percussion",
+        "Tribal Trance"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_67a6c13d52.mp3?filename=poshpony-drums-506736.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/percussion-sports-football-soccer-music-499975/",
+      "title": "Sports Football Soccer Music",
+      "tags": [
+        "Percussion",
+        "Sports Football Soccer"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/11/audio_519846b149.mp3?filename=prettyjohn1-sports-football-soccer-music-499975.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-brazilian-phonk-468913/",
+      "title": "Brazilian Phonk",
+      "tags": [
+        "Phonk",
+        "Brazilian Phonk"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/19/audio_4c8ea2f921.mp3?filename=screwedqueen-brazilian-phonk-468913.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-free-phonk-2-506973/",
+      "title": "Free Phonk 2",
+      "tags": [
+        "Phonk",
+        "Music",
+        "Instrumental"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_fa3cdb6c2a.mp3?filename=synclabmusic-free-phonk-2-506973.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-no-copyright-phonk-music-2-506972/",
+      "title": "No Copyright Phonk Music 2",
+      "tags": [
+        "Phonk",
+        "Music",
+        "Instrumental"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_ed84b9f2b5.mp3?filename=synclabmusic-no-copyright-phonk-music-2-506972.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-505963/",
+      "title": "Phonk",
+      "tags": [
+        "Phonk",
+        "Phonk Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/20/audio_28db178a30.mp3?filename=alexgrohl-phonk-505963.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-free-2-506974/",
+      "title": "Phonk Free 2",
+      "tags": [
+        "Phonk",
+        "Music",
+        "Instrumental"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_99db1c3d7c.mp3?filename=synclabmusic-phonk-free-2-506974.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-phonk-drift-496890/",
+      "title": "Phonk - Phonk Drift",
+      "tags": [
+        "Phonk",
+        "Phonk Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/07/audio_650f737823.mp3?filename=watermello-phonk-phonk-drift-496890.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-phonk-music-467523/",
+      "title": "Phonk - Phonk Music",
+      "tags": [
+        "Phonk",
+        "Phonk Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/16/audio_1988b9fcec.mp3?filename=anomy5-phonk-phonk-music-467523.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-phonk-music-483828/",
+      "title": "Phonk - Phonk Music",
+      "tags": [
+        "Phonk",
+        "Phonk Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/12/audio_76c9ad22d4.mp3?filename=the_mountain-phonk-phonk-music-483828.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-phonk-music-496450/",
+      "title": "Phonk - Phonk Music",
+      "tags": [
+        "Phonk",
+        "Phonk Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_37df81dfff.mp3?filename=the_mountain-phonk-phonk-music-496450.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-phonk-music-496452/",
+      "title": "Phonk - Phonk Music",
+      "tags": [
+        "Phonk",
+        "Phonk Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_48b544348b.mp3?filename=the_mountain-phonk-phonk-music-496452.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-phonk-phonk-music-505180/",
+      "title": "Phonk - Phonk Music",
+      "tags": [
+        "Phonk",
+        "Phonk Drift"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/19/audio_49fb3d0bf8.mp3?filename=the_mountain-phonk-phonk-music-505180.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-house-background-music-for-video-stories-28-second-503885/",
+      "title": "Toxic Drift. House Background music for video stories 28 second",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_78242efa6c.mp3?filename=white_records-toxic-drift-house-background-music-for-video-stories-28-second-503885.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-house-background-music-for-video-stories-full-version-503893/",
+      "title": "Toxic Drift. House Background music for video stories. Full version",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_ad4a383083.mp3?filename=white_records-toxic-drift-house-background-music-for-video-stories-full-version-503893.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-phonk-house-background-music-for-video-short-version-1-503891/",
+      "title": "Toxic Drift. Phonk House Background music for video. Short version 1",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_8ac19c5b94.mp3?filename=white_records-toxic-drift-phonk-house-background-music-for-video-short-version-1-503891.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-phonk-house-background-music-for-video-stories-27-second-503884/",
+      "title": "Toxic Drift. Phonk House Background music for video stories 27 second",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_9c289ae60b.mp3?filename=white_records-toxic-drift-phonk-house-background-music-for-video-stories-27-second-503884.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-phonk-house-background-music-for-video-stories-57-second-503889/",
+      "title": "Toxic Drift. Phonk House Background music for video stories 57 second",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_d46f5aa5bf.mp3?filename=white_records-toxic-drift-phonk-house-background-music-for-video-stories-57-second-503889.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-slap-house-background-music-for-video-stories-37-second-503887/",
+      "title": "Toxic Drift. Slap House Background music for video stories 37 second",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_9bccef6650.mp3?filename=white_records-toxic-drift-slap-house-background-music-for-video-stories-37-second-503887.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/phonk-toxic-drift-slap-house-background-music-for-video-stories-56-second-503890/",
+      "title": "Toxic Drift. Slap House Background music for video stories 56 second",
+      "tags": [
+        "Phonk",
+        "Background"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_5e0f560733.mp3?filename=white_records-toxic-drift-slap-house-background-music-for-video-stories-56-second-503890.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/pop-cheater-earth-i-am-done-with-you-alterpret-507398/",
+      "title": "Cheater Earth, I am done with you - Alterpret",
+      "tags": [
+        "Pop",
+        "Cheat",
+        "Liar",
+        "Politics"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_1b01a60f10.mp3?filename=alterpret-cheater-earth-i-am-done-with-you-alterpret-507398.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/pop-chill-chill-music-504903/",
+      "title": "Chill - Chill Music",
+      "tags": [
+        "Pop",
+        "Chill",
+        "Chill Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/19/audio_8f804d7678.mp3?filename=freemusicforvideo-chill-chill-music-504903.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/pop-reflex%C3%A3o-rock-rom%C3%A2ntico-507189/",
+      "title": "Reflexão - Rock Romântico",
+      "tags": [
+        "Pop",
+        "Reflexão",
+        "Amor",
+        "Paixão",
+        "Previous",
+        "Next page"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_1dd083e75c.mp3?filename=inaciodantas-reflexao-rock-romantico-507189.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/pop-stay-a-little-longer-emotional-indie-pop-song-507576/",
+      "title": "Stay a Little Longer – Emotional Indie Pop Song",
+      "tags": [
+        "Pop",
+        "Emotional Music",
+        "Sad Song"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_94469c4d4a.mp3?filename=rahulsapkal-stay-a-little-longer-emotional-indie-pop-song-507576.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/pop-the-beautiful-things-507369/",
+      "title": "The Beautiful Things",
+      "tags": [
+        "Pop",
+        "Beautiful Things",
+        "Child"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_267f3871e3.mp3?filename=song_writing_by_brad-the-beautiful-things-507369.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rap-johnnyzet666-walking-away-for-good-506424/",
+      "title": "JohnnyZet666 - Walking Away for Good",
+      "tags": [
+        "Rap",
+        "Uk Garage",
+        "Hip-hop"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/27/audio_ec3f6b1617.mp3?filename=johnnyzet666-johnnyzet666-walking-away-for-good-506424.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rap-jonagr-506847/",
+      "title": "JonAGR",
+      "tags": [
+        "Rap",
+        "Hip-hop",
+        "Mic",
+        "Leap"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_f00dea6e4a.mp3?filename=jonagr-jonagr-506847.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/reggae-instrumental-reggae-fusion-503515/",
+      "title": "Instrumental (Reggae Fusion)",
+      "tags": [
+        "Reggae",
+        "Instrument",
+        "Instrumental"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/16/audio_666e909b7c.mp3?filename=cam-031-instrumental-reggae-fusion-503515.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/reggae-island-drift-506524/",
+      "title": "Island Drift",
+      "tags": [
+        "Reggae",
+        "Riddim",
+        "Island",
+        "Next page"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/22/audio_593b320231.mp3?filename=slrathna-island-drift-506524.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/reggae-kids-cartoon-504887/",
+      "title": "Kids Cartoon",
+      "tags": [
+        "Reggae",
+        "Kids",
+        "Cartoon",
+        "Kids Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/19/audio_54d51848f2.mp3?filename=freemusicforvideo-kids-cartoon-504887.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/reggae-reggae-reggaeton-jamaican-jamaica-music-496206/",
+      "title": "Reggae Reggaeton Jamaican Jamaica Music",
+      "tags": [
+        "Reggae",
+        "Reggaeton"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_8e3b729218.mp3?filename=starostin-reggae-reggaeton-jamaican-jamaica-music-496206.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/reggae-slow-burning-sunday-503621/",
+      "title": "Slow Burning Sunday",
+      "tags": [
+        "Reggae",
+        "Singing",
+        "Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/17/audio_f3e37fef31.mp3?filename=susan-lu4esm-slow-burning-sunday-503621.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-energetic-507931/",
+      "title": "Energetic",
+      "tags": [
+        "Rock",
+        "Energetic Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_39b6060301.mp3?filename=nastelbom-energetic-507931.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-energetic-action-sport-500409/",
+      "title": "Energetic Action Sport",
+      "tags": [
+        "Rock",
+        "Energetic Rock"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/12/audio_bea8e8877a.mp3?filename=alexgrohl-energetic-action-sport-500409.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-punk-rock-507935/",
+      "title": "Punk Rock",
+      "tags": [
+        "Rock",
+        "Punk Rock Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_fde4195ad0.mp3?filename=nastelbom-punk-rock-507935.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-retro-vintage-rock-and-roll-507929/",
+      "title": "Retro Vintage Rock and Roll",
+      "tags": [
+        "Rock",
+        "Retro",
+        "Vintage"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_4bf3a3f734.mp3?filename=nastelbom-retro-vintage-rock-and-roll-507929.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-rock-507932/",
+      "title": "Rock",
+      "tags": [
+        "Rock",
+        "Rock Energy",
+        "Rock Action"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_496ff958ba.mp3?filename=nastelbom-rock-rock-music-507932.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-sport-rock-507942/",
+      "title": "Sport Rock",
+      "tags": [
+        "Rock",
+        "Sports Rock Energetic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_a58a821ed7.mp3?filename=nastelbom-sport-rock-507942.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-sports-football-soccer-music-496555/",
+      "title": "Sports Football Soccer Music",
+      "tags": [
+        "Rock",
+        "Sports Football Soccer"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_a8955aeb70.mp3?filename=the_mountain-sports-football-soccer-music-496555.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-upbeat-rock-492814/",
+      "title": "Upbeat Rock",
+      "tags": [
+        "Rock",
+        "Upbeat Rock"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/27/audio_b5b9f13cd2.mp3?filename=the_mountain-upbeat-rock-492814.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-upbeat-rock-507933/",
+      "title": "Upbeat Rock",
+      "tags": [
+        "Rock",
+        "Epic",
+        "Epical",
+        "Epicness"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_b4e93572d2.mp3?filename=nastelbom-upbeat-rock-507933.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/rock-upbeat-upbeat-rock-491415/",
+      "title": "Upbeat - Upbeat Rock",
+      "tags": [
+        "Rock",
+        "Upbeat",
+        "Upbeat Rock"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/26/audio_2f48117b54.mp3?filename=paulyudin-upbeat-upbeat-rock-491415.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/soft-house-fashion-33sec-507167/",
+      "title": "Fashion_33Sec",
+      "tags": [
+        "Soft House",
+        "Fashion",
+        "Fashion Stylish"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_8c30fbd1a2.mp3?filename=prettyjohn1-fashion_33sec-507167.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/soft-house-upbeat-waves-of-ocean-495981/",
+      "title": "Upbeat Waves of ocean",
+      "tags": [
+        "Soft House",
+        "Upbeat Waves"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/05/audio_1d1594478d.mp3?filename=joyinsound-upbeat-waves-of-ocean-495981.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/soft-house-vlog-vlog-fashion-178515/",
+      "title": "Vlog - Vlog Fashion",
+      "tags": [
+        "Soft House",
+        "Vlog",
+        "Fashion Vlog"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2023/11/27/audio_0fb436d09b.mp3?filename=loksii-vlog-vlog-fashion-178515.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/solo-piano-emotional-emotional-music-490002/",
+      "title": "Emotional - Emotional Music",
+      "tags": [
+        "Solo Piano",
+        "Emotional"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/23/audio_f3eb82118c.mp3?filename=the_mountain-emotional-emotional-music-490002.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/solo-piano-gentle-gentle-music-508019/",
+      "title": "Gentle -Gentle Music",
+      "tags": [
+        "Solo Piano",
+        "Gentle",
+        "Gentle Acoustic"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_7f9939e828.mp3?filename=the_mountain-gentle-gentle-music-508019.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/solo-piano-piano-background-music-487020/",
+      "title": "Piano Background Music",
+      "tags": [
+        "Solo Piano",
+        "Piano Background Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/18/audio_2cea1a8de1.mp3?filename=the_mountain-piano-background-music-487020.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/solo-piano-piano-music-piano-485929/",
+      "title": "Piano Music - Piano",
+      "tags": [
+        "Solo Piano",
+        "Piano",
+        "Piano Background",
+        "Previous",
+        "Next page"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/16/audio_53ed60dcda.mp3?filename=paulyudin-piano-music-piano-485929.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/solo-piano-sad-sad-music-485935/",
+      "title": "Sad - Sad Music",
+      "tags": [
+        "Solo Piano",
+        "Sad",
+        "Sad Music",
+        "Sad Song"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/16/audio_6b2cdc0e5a.mp3?filename=paulyudin-sad-sad-music-485935.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/suspense-dark-soundscape-short-507017/",
+      "title": "Dark Soundscape (Short)",
+      "tags": [
+        "Suspense",
+        "Action",
+        "Abstract"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_1f634e2ec6.mp3?filename=siarhei_korbut-dark-soundscape-short-507017.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/traditional-jazz-coffee-time-jazz-170977/",
+      "title": "Coffee Time (Jazz)",
+      "tags": [
+        "Traditional Jazz",
+        "Comedy",
+        "Cooking",
+        "Cool"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2023/10/11/audio_9c4f338035.mp3?filename=diamond_tunes-coffee-time-jazz-170977.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/trap-lifestyle-vibe-507180/",
+      "title": "Lifestyle Vibe",
+      "tags": [
+        "Trap",
+        "Advertising",
+        "Agency",
+        "Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_7bc2e134b3.mp3?filename=yurasoop-lifestyle-vibe-507180.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/trap-new-york-street-507184/",
+      "title": "New York Street",
+      "tags": [
+        "Trap",
+        "Action",
+        "Background",
+        "Bass"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_767a0002f8.mp3?filename=yurasoop-new-york-street-507184.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/trap-street-mood-507183/",
+      "title": "Street Mood",
+      "tags": [
+        "Trap",
+        "Action",
+        "Boxing"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_052e244cf5.mp3?filename=yurasoop-street-mood-507183.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/trap-technology-design-free-background-music-for-video-507209/",
+      "title": "Technology Design | Free Background Music For Video",
+      "tags": [
+        "Trap",
+        "No Copyright Music Ele..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_32366358f3.mp3?filename=miromaxmusic-technology-design-free-background-music-for-video-507209.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/trap-vlog-485573/",
+      "title": "Vlog",
+      "tags": [
+        "Trap",
+        "Vlog",
+        "Vlog Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/02/15/audio_a1395a7d2b.mp3?filename=the_mountain-vlog-485573.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-afro-house-banger-507179/",
+      "title": "Afro House Banger",
+      "tags": [
+        "Upbeat",
+        "Afro",
+        "Background",
+        "Brand"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_e2af8696ca.mp3?filename=yurasoop-afro-house-banger-507179.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-aggressive-sport-phonk-464391/",
+      "title": "Aggressive Sport Phonk",
+      "tags": [
+        "Upbeat",
+        "Aggressive Sport Rock"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/11/audio_4f3064029a.mp3?filename=anomy5-aggressive-sport-phonk-464391.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-calm-calm-music-507994/",
+      "title": "Calm - Calm Music",
+      "tags": [
+        "Upbeat",
+        "Calm",
+        "Ambient Calm"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_431333f472.mp3?filename=the_mountain-calm-calm-music-507994.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-chasing-success-shaping-the-future-507158/",
+      "title": "Chasing Success - Shaping the Future",
+      "tags": [
+        "Upbeat",
+        "Corporate Background M..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_c6f1296ebe.mp3?filename=joyinsound-chasing-success-shaping-the-future-507158.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-church-church-music-507998/",
+      "title": "Church - Church Music",
+      "tags": [
+        "Upbeat",
+        "Church",
+        "Christian Church"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_e48c78c098.mp3?filename=the_mountain-church-church-music-507998.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-coffee-lounge-lounge-music-508001/",
+      "title": "Coffee Lounge - Lounge Music",
+      "tags": [
+        "Upbeat",
+        "Coffee Lounge"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_0203b52288.mp3?filename=the_mountain-coffee-lounge-lounge-music-508001.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-dark-electronic-464393/",
+      "title": "Dark Electronic",
+      "tags": [
+        "Upbeat",
+        "Stylish Beat"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/11/audio_c929b22500.mp3?filename=anomy5-dark-electronic-464393.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-festive-festive-music-508015/",
+      "title": "Festive - Festive Music",
+      "tags": [
+        "Upbeat",
+        "Festive"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_5c15537dbd.mp3?filename=the_mountain-festive-festive-music-508015.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-neon-night-phonk-house-by-anomy5-178380/",
+      "title": "Neon Night (Phonk House) by Anomy5",
+      "tags": [
+        "Upbeat",
+        "Phonk",
+        "Romantic Phonk"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2023/11/26/audio_ffc1bb4c43.mp3?filename=anomy5-neon-night-phonk-house-by-anomy5-178380.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-night-light-after-weeding-507221/",
+      "title": "Night Light -After Weeding",
+      "tags": [
+        "Upbeat",
+        "Nature",
+        "Fish",
+        "Underwater"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_6e8e282e5c.mp3?filename=souravdasix0ii-night-light-after-weeding-507221.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-no-copyright-music-2-507945/",
+      "title": "No Copyright Music 2",
+      "tags": [
+        "Upbeat",
+        "No Copyright Music Bac..."
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_8d18ede6a7.mp3?filename=nastelbom-no-copyright-music-2-507945.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-sad-chill-phonk-464392/",
+      "title": "Sad Chill Phonk",
+      "tags": [
+        "Upbeat",
+        "Sad Chill Ambient"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/01/11/audio_3b190d236b.mp3?filename=anomy5-sad-chill-phonk-464392.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-take-it-507177/",
+      "title": "Take It",
+      "tags": [
+        "Upbeat",
+        "Atmospheric",
+        "Broken Beat"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/23/audio_177238c00d.mp3?filename=yurasoop-take-it-507177.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-time-trigger-phonk-house-by-anomy5-180413/",
+      "title": "Time Trigger (Phonk House) by Anomy5",
+      "tags": [
+        "Upbeat",
+        "Phonk",
+        "Romantic Phonk"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2023/12/07/audio_fe458c17f8.mp3?filename=anomy5-time-trigger-phonk-house-by-anomy5-180413.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-tutorial-tutorial-music-508040/",
+      "title": "Tutorial - Tutorial Music",
+      "tags": [
+        "Upbeat",
+        "Tutorial"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/24/audio_0bc6a844f3.mp3?filename=the_mountain-tutorial-tutorial-music-508040.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/upbeat-upbeat-waves-of-sea-496465/",
+      "title": "Upbeat Waves of Sea",
+      "tags": [
+        "Upbeat",
+        "Upbeat Waves"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2026/03/06/audio_d1d6a30634.mp3?filename=joyinsound-upbeat-waves-of-sea-496465.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/urban-latin-salsa-caliente-action-dancing-salsa-123388/",
+      "title": "Salsa Caliente (Action Dancing Salsa)",
+      "tags": [
+        "Urban Latin",
+        "Amazing",
+        "Atmosphere"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2022/10/19/audio_5e426201b0.mp3?filename=diamond_tunes-salsa-caliente-action-dancing-salsa-123388.mp3"
+    },
+    {
+      "url": "https://pixabay.com/music/urban-latin-urban-urban-latin-beat-232688/",
+      "title": "Urban - Urban Latin Beat",
+      "tags": [
+        "Urban Latin",
+        "Urban",
+        "Urban Music"
+      ],
+      "downloadUrl": "https://cdn.pixabay.com/download/audio/2024/08/15/audio_6a4b385dd7.mp3?filename=loksii-urban-urban-latin-beat-232688.mp3"
+    }
+  ]
+}

@@ -3,10 +3,10 @@
 
 ---
 name: product-animation-video
-description: Use this skill whenever the user uploads a product photo and wants to create an animated story video where the product stays photographic while the surrounding world is illustrated and animated -- like a comic or storybook come to life. Covers the full pipeline from product analysis through 9-panel storyboard generation (nano-banana) to a single animated video (Seedance 2.0). Make sure to use this skill whenever the user mentions product animation, animated product video, illustrated product story, comic-style product video, storybook animation, or wants to place a real product into an animated illustrated world -- even if they just say "animate this product" or "make this into an illustrated video." Works for any product category. Works in Chinese and English (产品动画视频、插画风格产品视频、漫画风产品动画、产品故事动画).
+description: Use this skill whenever the user uploads a product photo and wants to create an animated story video where the product stays photographic while the surrounding world is illustrated and animated -- like a comic or storybook come to life. Covers the full pipeline from product analysis through 9-panel storyboard generation (nano-banana) to a single animated video (Seedance 2.0). Make sure to use this skill whenever the user mentions product animation, animated product video, illustrated product story, comic-style product video, storybook animation, or wants to place a real product into an animated illustrated world -- even if they just say "animate this product" or "make this into an illustrated video." Works for any product category and supports Chinese and English user requests.
 ---
 
-# Product Animation Video | 产品动画视频
+# Product Animation Video
 
 Transform a real product photo into a cinematic animated story video. A 9-panel illustrated storyboard is generated in a single image, then Seedance 2.0 animates it into a continuous 15-second video. The product is a character — it enters, interacts, and earns its hero moment. Not every panel shows the product; its absence builds anticipation, and its presence earns impact.
 

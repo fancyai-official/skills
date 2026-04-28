@@ -1,0 +1,153 @@
+{
+  "skill_name": "beauty-photography-master",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "I have this Dior J'adore product photo on a white background. Can you create luxury advertising campaign images for it?",
+      "expected_output": "Full workflow: Phase 1 identification card (clear glass, gold liquid), Phase 2 with 3 diverse concepts using the diversity matrix, Phase 3 prompt construction with clear-glass physics (refraction, caustics), generation, QA, and curation.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "diversity_matrix_filled",
+          "description": "Agent fills in the 4-row diversity matrix BEFORE writing concept cards"
+        },
+        {
+          "name": "three_different_approaches",
+          "description": "The 3 concepts use 3 different commercial approaches from Section VI (e.g. Botanical, Light & Shadow, Lifestyle)"
+        },
+        {
+          "name": "two_plus_lighting_families",
+          "description": "At least 2 different lighting families are used across the 3 concepts (dark, bright, warm)"
+        },
+        {
+          "name": "at_least_one_contrast",
+          "description": "At least 1 concept uses the contrast strategy (environment opposes bottle mood)"
+        },
+        {
+          "name": "clear_glass_physics",
+          "description": "Prompts use clear-glass physics language: refraction, transmission, caustics, liquid color glow -- NOT frosted-glass language"
+        },
+        {
+          "name": "no_camera_gear",
+          "description": "No camera gear names (Hasselblad, Phase One, lens focal lengths, f-stop numbers) appear in any generated prompt"
+        },
+        {
+          "name": "functional_surface_descriptions",
+          "description": "Surface descriptions include functional light behavior (e.g. 'marble acting as a soft reflector') not just names"
+        },
+        {
+          "name": "prompt_template_used",
+          "description": "Generated prompts follow the Master Prompt Template structure from SKILL.md Phase 3.2 (bottle description, composition, lighting, environment, color palette, atmosphere, style)"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Generate campaign concepts for this Tom Ford Oud Wood bottle. It's a very dark amber/brown rectangular bottle. I want Light & Shadow Drama.",
+      "expected_output": "User specified Light & Shadow Drama as their preferred direction. The diversity protocol still requires 3 different commercial approaches, so the concepts should honor the user's preference (at least 1 concept uses Light & Shadow) while ensuring overall diversity. The dark bottle must not produce 3 uniformly dark concepts.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "user_direction_honored",
+          "description": "At least 1 of the 3 concepts uses Light & Shadow Drama, respecting the user's stated preference"
+        },
+        {
+          "name": "three_different_approaches",
+          "description": "The 3 concepts use 3 different commercial approaches -- not all Light & Shadow"
+        },
+        {
+          "name": "diversity_matrix_filled",
+          "description": "Agent fills in the 4-row diversity matrix (approach, lighting family, background tone, color strategy) before writing concept cards"
+        },
+        {
+          "name": "no_mood_collapse",
+          "description": "The 3 concepts do NOT all use dark/moody lighting -- at least 1 uses bright or warm lighting family"
+        },
+        {
+          "name": "self_check_performed",
+          "description": "Agent performs the self-check: 'Could all 3 concepts be shots from the same photoshoot?' and confirms they cannot"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Create luxury ad images for this Jo Malone bottle. It has frosted/matte glass with a cream-colored cap.",
+      "expected_output": "Phase 1 correctly identifies frosted glass. Prompts use scattering/luminosity physics, NOT refraction/caustics. Material mismatch principle is respected.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "frosted_glass_identified",
+          "description": "Phase 1 identification card correctly identifies the glass type as frosted/matte"
+        },
+        {
+          "name": "adapted_physics_language",
+          "description": "Prompts use frosted-glass physics: surface scattering, internal luminosity, micro-highlights -- NOT clear-glass refraction/caustics"
+        },
+        {
+          "name": "no_material_mismatch",
+          "description": "No clear-glass physics (refraction, transmission, caustics, 'light passing through') is applied to the frosted glass body"
+        },
+        {
+          "name": "diversity_matrix_filled",
+          "description": "Diversity matrix is filled before concept cards"
+        },
+        {
+          "name": "brief_structural_description",
+          "description": "Bottle structural description in prompts is brief/named, not exhaustive construction detail (trusting reference image)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": ", ",
+      "expected_output": "Skill triggers on Chinese input. Full workflow executes. AskQuestion prompts display bilingual (Chinese + English). Output quality matches English-language runs.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "skill_triggers",
+          "description": "The beauty-photography-master skill activates on this Chinese-language prompt"
+        },
+        {
+          "name": "bilingual_interaction",
+          "description": "AskQuestion prompts include both Chinese and English text"
+        },
+        {
+          "name": "full_workflow_executes",
+          "description": "All phases execute: identification, creative direction with diversity matrix, prompt construction, generation"
+        },
+        {
+          "name": "diversity_matrix_filled",
+          "description": "Diversity matrix is filled before concept cards, even with Chinese input"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Generate campaign concepts for this Tom Ford Figue Érotique bottle. It's a deep purple glass bottle.",
+      "expected_output": "No direction specified. The 3 concepts must use 3 different commercial approaches. Dark purple bottle must not produce 3 dark concepts -- at least 1 must use bright or warm lighting (contrast strategy). At least 1 concept must borrow lighting from a different fragrance family row.",
+      "files": [],
+      "assertions": [
+        {
+          "name": "three_different_approaches",
+          "description": "3 different commercial approaches are used across the 3 concepts"
+        },
+        {
+          "name": "no_mood_collapse",
+          "description": "The 3 concepts do NOT all use dark/moody lighting -- at least 1 uses bright or warm lighting family"
+        },
+        {
+          "name": "contrast_strategy_present",
+          "description": "At least 1 concept uses contrast strategy: dark bottle in a bright or warm environment that opposes the bottle's inherent mood"
+        },
+        {
+          "name": "cross_family_borrowing",
+          "description": "At least 1 concept pulls lighting or color direction from a different fragrance family row than woody/oriental"
+        },
+        {
+          "name": "self_check_performed",
+          "description": "Agent performs the self-check: 'Could all 3 concepts be shots from the same photoshoot?' and confirms they cannot"
+        }
+      ]
+    }
+  ]
+}
