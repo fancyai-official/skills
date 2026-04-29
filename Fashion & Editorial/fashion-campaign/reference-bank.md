@@ -1,13 +1,13 @@
 # ⛔ HARDSTOP — DO NOT READ THIS FILE DURING STEP 2
 
-**你不应该在 Step 2 期间读取这个文件。**
+**You should not read this file during Step 2.**
 
-Quick-Lookup Index（下方第 9–152 行）已完整内联到你的系统提示 `CLAUDE.md` → `§Reference Bank Quick-Lookup Index` 中。读取本文件将消耗约 10,500 tokens，导致响应超时（>180s），属于严重违规。
+The Quick-Lookup Index (lines 9–152 below) has been completely inlined into your system prompt `CLAUDE.md` → `§Reference Bank Quick-Lookup Index`. Reading this file will consume about 10,500 tokens, causing a response timeout (>180s), which is a severe violation.
 
-→ **立即停止读取本文件。回到 CLAUDE.md，使用内联的 §Reference Bank Quick-Lookup Index。**
+→ **Stop reading this file immediately. Return to CLAUDE.md and use the inlined §Reference Bank Quick-Lookup Index.**
 
-唯一允许读取本文件的情况：Step 2 已完成、你需要核实某个在内联 Index 中找不到的具体面料或布光细节。  
-如果你在 Step 2a / 2b 期间读到了这行 → 违规，立即关闭文件，使用内联数据。
+The ONLY situation where reading this file is allowed: Step 2 is completed, and you need to verify a specific fabric or lighting detail that cannot be found in the inlined Index.  
+If you read this line during Step 2a / 2b → Violation, close the file immediately, use the inlined data.
 
 ---
 
