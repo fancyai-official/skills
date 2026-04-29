@@ -73,7 +73,8 @@ We designed these skills to be extended. If you have a product category or visua
 **Maintained by FancyAI — The AI for Aesthetics**  
 *From real-world production to reusable skill sets.*
 
-<img width="2276" height="1280" alt="b02c6c8b375427b93b1274d86105a13f" src="https://github.com/user-attachments/assets/f48211e8-07a0-4aab-9663-027b095c347b" />
+<img width="2276" height="1280" alt="fa02d5b63cf16f021a8561869ad1b294" src="https://github.com/user-attachments/assets/4960b5a4-6a55-4995-9883-8d783aec039a" />
+
 
 
 
