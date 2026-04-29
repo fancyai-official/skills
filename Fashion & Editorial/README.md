@@ -81,8 +81,6 @@ We designed these skills to be extended. If you have a fashion workflow — camp
 **Maintained by FancyAI — The AI for Aesthetics**  
 *From runway to retail, campaign to closet.*
 
-<img width="3000" height="1687" alt="665bbdf1816ea4d375d5b25cc6126013" src="https://github.com/user-attachments/assets/c883f081-cb4b-46db-a67e-6e08f00436fe" />
-
 <img width="3000" height="1687" alt="2945940707234286846f659b297b2183" src="https://github.com/user-attachments/assets/3a025ecc-0e21-4fa1-a538-0e4c9917d9ab" />
 
 <img width="2276" height="1280" alt="263df8d762fdc2306df6989c5097d61a" src="https://github.com/user-attachments/assets/3b1662b3-85a5-4301-8661-420059caa272" />
