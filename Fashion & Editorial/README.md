@@ -1,5 +1,6 @@
-<img width="3000" height="1687" alt="665bbdf1816ea4d375d5b25cc6126013" src="https://github.com/user-attachments/assets/a1526edb-dcec-4557-aa5c-7e1548a8fe3f" /># FancyAI Fashion & Editorial Skills
+<img width="3000" height="1687" alt="665bbdf1816ea4d375d5b25cc6126013" src="https://github.com/user-attachments/assets/a1526edb-dcec-4557-aa5c-7e1548a8fe3f" />
 
+# FancyAI Fashion & Editorial Skills
 Welcome to the **FancyAI Fashion & Editorial Skills** set. This collection is purpose-built to solve one of the most persistent challenges in modern fashion creative production: **translating high-level creative vision into production-ready assets** — from campaign direction to editorial storytelling, design development, and street style documentation.
 
 ## Why We Built This
