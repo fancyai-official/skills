@@ -1,3 +1,5 @@
+<img width="2276" height="1280" alt="df2c2d5f04aac5b8466a6d6f1237a898" src="https://github.com/user-attachments/assets/e0d392f8-208d-43bc-b5ec-6ad2319222d9" />
+
 # FancyAI E-Commerce Skills: Product Asset Creation
 
 Welcome to the **FancyAI E-Commerce Skills** set. This collection is purpose-built to solve one of the most persistent challenges in modern retail: **producing high-volume, on-brand, and conversion-driven product visuals at scale** — across both still photography and motion content.
@@ -70,4 +72,8 @@ We designed these skills to be extended. If you have a product category or visua
 
 **Maintained by FancyAI — The AI for Aesthetics**  
 *From real-world production to reusable skill sets.*
+
+<img width="2276" height="1280" alt="b02c6c8b375427b93b1274d86105a13f" src="https://github.com/user-attachments/assets/f48211e8-07a0-4aab-9663-027b095c347b" />
+
+
 
